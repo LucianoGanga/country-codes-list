@@ -1,15 +1,15 @@
 # country-codes-list
 Module with list of codes per country, which includes:
 
-- Country code (ISO 3166-1 alpha-2): Obtained from (Wikipedia)[https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2]
+- Country code (ISO 3166-1 alpha-2): Obtained from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
 - Country Name: Each name in english and in the local country language
-- Currency Code (ISO 4217): Obtained from (Wikipedia)[https://en.wikipedia.org/wiki/ISO_4217]
-- Currency Name (ISO 4217): Obtained from (Wikipedia)[https://en.wikipedia.org/wiki/ISO_4217]
-- TIN Code (Taxpayer Identification Number, also known as VAT in some countries): Obtained from (Wikipedia)[https://en.wikipedia.org/wiki/VAT_identification_number]
-- TIN Name: Obtained from (Wikipedia)[https://en.wikipedia.org/wiki/VAT_identification_number]
-- Official language code (usually from ISO 639-1, or ISO 639-3 otherwise)): Obtained from (Open Street Map)[https://wiki.openstreetmap.org/wiki/Nominatim/Country_Codes]. Returns only the first official language code per country
+- Currency Code (ISO 4217): Obtained from [Wikipedia](https://en.wikipedia.org/wiki/ISO_4217)
+- Currency Name (ISO 4217): Obtained from [Wikipedia](https://en.wikipedia.org/wiki/ISO_4217)
+- TIN Code (Taxpayer Identification Number, also known as VAT in some countries): Obtained from [Wikipedia](https://en.wikipedia.org/wiki/VAT_identification_number)
+- TIN Name: Obtained from [Wikipedia](https://en.wikipedia.org/wiki/VAT_identification_number)
+- Official language code (usually from ISO 639-1, or ISO 639-3 otherwise)): Obtained from [Open Street Map](https://wiki.openstreetmap.org/wiki/Nominatim/Country_Codes). Returns only the first official language code per country
 - Official language name: Each name in english and in the local country language
-- Country Calling Code: The phone calling code for the country. Obtained from (Wikipedia)[https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region]. 
+- Country Calling Code: The phone calling code for the country. Obtained from [Wikipedia](https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region). 
 
 
 
