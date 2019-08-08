@@ -3004,5 +3004,6 @@ module.exports = {
     countriesData.forEach(countryData => {
       finalObject[countryData[key]] = supplant(label, countryData)
     })
+    return finalObject
   }
 }
