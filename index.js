@@ -11,7 +11,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "ca",
     "officialLanguageNameEn": "Catalan, Valencian",
-    "officialLanguageNameLocal": "català, valencià",
+    "officialLanguageNameLocal": "Català, Valencià",
     "countryCallingCode": "376"
   },
   {
@@ -258,7 +258,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "226"
   },
   {
@@ -268,7 +268,7 @@ const countriesData = [
     "currencyCode": "BGN",
     "currencyNameEn": "Bulgarian lev",
     "tinType": "ДДС номер",
-    "tinName": "Идентификационен номер по ДДС[6]\nIdentifikacionen nomer po DDS",
+    "tinName": "Идентификационен номер по ДДС",
     "officialLanguageCode": "bg",
     "officialLanguageNameEn": "Bulgarian",
     "officialLanguageNameLocal": "български език",
@@ -297,7 +297,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "257"
   },
   {
@@ -310,7 +310,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "229"
   },
   {
@@ -323,7 +323,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "590"
   },
   {
@@ -384,8 +384,8 @@ const countriesData = [
     "countryCode": "BR",
     "currencyCode": "BRL",
     "currencyNameEn": "Brazilian real",
-    "tinType": "CNPJ or CPF",
-    "tinName": "Cadastro Nacional de Pessoa Jurídica (Companies)[25] or Cadastro de Pessoa Física (Legal People)[26]",
+    "tinType": "CNPJ",
+    "tinName": "Cadastro Nacional de Pessoa Jurídica",
     "officialLanguageCode": "pt",
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
@@ -437,7 +437,7 @@ const countriesData = [
     "currencyCode": "BYR",
     "currencyNameEn": "",
     "tinType": "УНП (UNP)",
-    "tinName": "Учетный номер плательщика\nUchetniy nomer platel'shika",
+    "tinName": "Учетный номер плательщика",
     "officialLanguageCode": "be",
     "officialLanguageNameEn": "Belarusian",
     "officialLanguageNameLocal": "беларуская мова",
@@ -463,7 +463,7 @@ const countriesData = [
     "currencyCode": "CAD",
     "currencyNameEn": "Canadian dollar",
     "tinType": "BN / NE",
-    "tinName": "Business Number\nNuméro d'entreprise",
+    "tinName": "Business Number",
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
@@ -492,7 +492,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": ""
   },
   {
@@ -502,7 +502,7 @@ const countriesData = [
     "currencyCode": "CLP",
     "currencyNameEn": "Chilean peso",
     "tinType": "RUT",
-    "tinName": "Rol Único Tributario\nUnique Taxation Number",
+    "tinName": "Rol Único Tributario",
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
@@ -518,7 +518,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "237"
   },
   {
@@ -526,7 +526,7 @@ const countriesData = [
     "countryNameLocal": "中国",
     "countryCode": "CN",
     "currencyCode": "CNY",
-    "currencyNameEn": "Renminbi (Chinese) yuan[8]",
+    "currencyNameEn": "Renminbi (Chinese) yuan",
     "tinType": "",
     "tinName": "",
     "officialLanguageCode": "zh-hans",
@@ -619,7 +619,7 @@ const countriesData = [
     "currencyCode": "EUR",
     "currencyNameEn": "Euro",
     "tinType": "ΦΠΑ",
-    "tinName": "Αριθμός Εγγραφής Φ.Π.Α.\nArithmós Engraphḗs phi. pi. a.",
+    "tinName": "Αριθμός Εγγραφής Φ.Π.Α.",
     "officialLanguageCode": "el",
     "officialLanguageNameEn": "Greek, Modern (1453-)",
     "officialLanguageNameLocal": "ελληνικά",
@@ -648,7 +648,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "253"
   },
   {
@@ -787,8 +787,8 @@ const countriesData = [
     "countryCode": "FI",
     "currencyCode": "EUR",
     "currencyNameEn": "Euro",
-    "tinType": "ALV nro\nMomsnummer",
-    "tinName": "Arvonlisäveronumero\nMervärdesskattenummer",
+    "tinType": "ALV nro",
+    "tinName": "Arvonlisäveronumero",
     "officialLanguageCode": "fi",
     "officialLanguageNameEn": "Finnish",
     "officialLanguageNameLocal": "suomi, suomen kieli",
@@ -830,7 +830,7 @@ const countriesData = [
     "tinName": "Numéro d'identification à la taxe sur la valeur ajoutée / Numéro de TVA intracommunautaire",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "33"
   },
   {
@@ -843,7 +843,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "241"
   },
   {
@@ -882,7 +882,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "594"
   },
   {
@@ -947,7 +947,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "224"
   },
   {
@@ -960,7 +960,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "590"
   },
   {
@@ -1103,7 +1103,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "509"
   },
   {
@@ -1217,7 +1217,7 @@ const countriesData = [
     "currencyCode": "ISK",
     "currencyNameEn": "Icelandic króna",
     "tinType": "VSK / VASK",
-    "tinName": "Virðisaukaskattsnúmer\nValue Added Tax Number",
+    "tinName": "Virðisaukaskattsnúmer",
     "officialLanguageCode": "is",
     "officialLanguageNameEn": "Icelandic",
     "officialLanguageNameLocal": "Íslenska",
@@ -1519,7 +1519,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "212"
   },
   {
@@ -1532,7 +1532,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "377"
   },
   {
@@ -1545,7 +1545,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "srp",
     "officialLanguageNameEn": "српски језик",
-    "officialLanguageNameLocal": "The ISO 639-2/T code srp deprecated the ISO 639-2/B code scc[2]",
+    "officialLanguageNameLocal": "",
     "countryCallingCode": "382"
   },
   {
@@ -1558,7 +1558,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": ""
   },
   {
@@ -1584,7 +1584,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "223"
   },
   {
@@ -1636,7 +1636,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "596"
   },
   {
@@ -1779,7 +1779,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "687"
   },
   {
@@ -1828,7 +1828,7 @@ const countriesData = [
     "currencyCode": "NOK",
     "currencyNameEn": "Norwegian krone",
     "tinType": "Orgnr",
-    "tinName": "Organisasjonsnummer\nOrganization number",
+    "tinName": "Organisasjonsnummer",
     "officialLanguageCode": "nb",
     "officialLanguageNameEn": "Norwegian Bokmål",
     "officialLanguageNameLocal": "Norsk Bokmål",
@@ -1935,7 +1935,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "689"
   },
   {
@@ -1987,7 +1987,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "508"
   },
   {
@@ -2035,8 +2035,8 @@ const countriesData = [
     "countryCode": "PT",
     "currencyCode": "EUR",
     "currencyNameEn": "Euro",
-    "tinType": "NIF or NIPC",
-    "tinName": "Número de Identificação Fiscal (NIF) - for individual people / Número de Identificação de Pessoa Coletiva (NIPC) – for companies",
+    "tinType": "NIPC",
+    "tinName": "Número de Identificação de Pessoa Coletiva (NIPC)",
     "officialLanguageCode": "pt",
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
@@ -2091,7 +2091,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "262"
   },
   {
@@ -2114,7 +2114,7 @@ const countriesData = [
     "currencyCode": "RSD",
     "currencyNameEn": "Serbian dinar",
     "tinType": "PIB",
-    "tinName": "Poreski identifikacioni broj\nTax identification number",
+    "tinName": "Poreski identifikacioni broj",
     "officialLanguageCode": "sr",
     "officialLanguageNameEn": "Serbian",
     "officialLanguageNameLocal": "српски језик",
@@ -2127,7 +2127,7 @@ const countriesData = [
     "currencyCode": "RUB",
     "currencyNameEn": "Russian ruble",
     "tinType": "ИНН",
-    "tinName": "Идентификационный номер налогоплательщика\nIndentifikatzionny nomer nalogoplatel'shchika\n(Taxpayer Identification Number)",
+    "tinName": "Идентификационный номер налогоплательщика",
     "officialLanguageCode": "ru",
     "officialLanguageNameEn": "Russian",
     "officialLanguageNameLocal": "русский",
@@ -2182,7 +2182,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "248"
   },
   {
@@ -2192,7 +2192,7 @@ const countriesData = [
     "currencyCode": "SEK",
     "currencyNameEn": "Swedish krona/kronor",
     "tinType": "Momsnr.",
-    "tinName": "VAT-nummer or momsnummer or momsregistreringsnummer",
+    "tinName": "VAT-nummer",
     "officialLanguageCode": "sv",
     "officialLanguageNameEn": "Swedish",
     "officialLanguageNameLocal": "Svenska",
@@ -2299,7 +2299,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "221"
   },
   {
@@ -2403,7 +2403,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "235"
   },
   {
@@ -2416,7 +2416,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "228"
   },
   {
@@ -2569,7 +2569,7 @@ const countriesData = [
     "currencyCode": "UAH",
     "currencyNameEn": "Ukrainian hryvnia",
     "tinType": "ІНПП",
-    "tinName": "Ідентифікаційний номер платника податків\nIdentificational tax number",
+    "tinName": "Ідентифікаційний номер платника податків",
     "officialLanguageCode": "uk",
     "officialLanguageNameEn": "Ukrainian",
     "officialLanguageNameLocal": "Українська",
@@ -2621,7 +2621,7 @@ const countriesData = [
     "currencyCode": "UZS",
     "currencyNameEn": "Uzbekistan som",
     "tinType": "СТИР",
-    "tinName": "Солиқ тўловчиларнинг идентификация рақами[24]",
+    "tinName": "Солиқ тўловчиларнинг идентификация рақами",
     "officialLanguageCode": "uz",
     "officialLanguageNameEn": "Uzbek",
     "officialLanguageNameLocal": "Oʻzbek, Ўзбек, أۇزبېك‎",
@@ -2715,7 +2715,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "681"
   },
   {
@@ -2754,7 +2754,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "262"
   },
   {
@@ -2827,7 +2827,7 @@ const countriesData = [
     "countryNameLocal": "Philippines",
     "countryCode": "PH",
     "currencyCode": "PHP",
-    "currencyNameEn": "Philippine peso[14]",
+    "currencyNameEn": "Philippine peso",
     "tinType": "TIN",
     "tinName": "Tax Identification Number",
     "officialLanguageCode": "en",
@@ -2949,7 +2949,7 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": ""
   },
   {
@@ -2962,7 +2962,7 @@ const countriesData = [
     "tinName": "Daňové identifikační číslo",
     "officialLanguageCode": "cs",
     "officialLanguageNameEn": "Czech",
-    "officialLanguageNameLocal": "čeština, český jazyk",
+    "officialLanguageNameLocal": "Čeština",
     "countryCallingCode": ""
   },
   {
@@ -2988,16 +2988,23 @@ const countriesData = [
     "tinName": "",
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
-    "officialLanguageNameLocal": "français, langue française",
+    "officialLanguageNameLocal": "Français",
     "countryCallingCode": "227"
   }
 ]
 
 module.exports = {
   /**
-   * 
-   * @param {*} key 
-   * @param {*} label Placeholder like string, with all the fields that you want to use
+   * Returns the list with all the countries data
+   */
+  all: function () {
+    return countriesData
+  },
+  /**
+   * Returns a custom object with the passed key as object key and a value made up with
+   * values set in the placeholders of the label variable
+   * @param {*} key - Key used to construct the object to return
+   * @param {*} label - Placeholder like string, with all the fields that you want to use
    */
   customList: function (key = 'countryCode', label = '{countryNameEn} ({countryCode})') {
     const finalObject = {}
