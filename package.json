@@ -1,0 +1,36 @@
+{
+  "name": "country-codes",
+  "version": "1.0.1",
+  "description": "List of codes per country (languages, calling codes, currency codes, etc)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucianoGanga/country-codes.git"
+  },
+  "keywords": [
+    "country",
+    "code",
+    "currency",
+    "code",
+    "country",
+    "list",
+    "language",
+    "per",
+    "country",
+    "languages",
+    "list",
+    "calling",
+    "codes",
+    "phone",
+    "codes"
+  ],
+  "author": "Luciano Andrés Ganga Carabante",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucianoGanga/country-codes/issues"
+  },
+  "homepage": "https://github.com/LucianoGanga/country-codes#readme"
+}
