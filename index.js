@@ -12,7 +12,7 @@ const countriesData = [
     "officialLanguageCode": "ca",
     "officialLanguageNameEn": "Catalan, Valencian",
     "officialLanguageNameLocal": "català, valencià",
-    "countryCallingCode": "+376"
+    "countryCallingCode": "376"
   },
   {
     "countryNameEn": "Afghanistan",
@@ -25,7 +25,7 @@ const countriesData = [
     "officialLanguageCode": "fa",
     "officialLanguageNameEn": "Persian",
     "officialLanguageNameLocal": "فارسی",
-    "countryCallingCode": "+93"
+    "countryCallingCode": "93"
   },
   {
     "countryNameEn": "Antigua and Barbuda",
@@ -38,7 +38,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+1"
+    "countryCallingCode": "1"
   },
   {
     "countryNameEn": "Anguilla",
@@ -51,7 +51,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+1"
+    "countryCallingCode": "1"
   },
   {
     "countryNameEn": "Albania",
@@ -64,7 +64,7 @@ const countriesData = [
     "officialLanguageCode": "sq",
     "officialLanguageNameEn": "Albanian",
     "officialLanguageNameLocal": "Shqip",
-    "countryCallingCode": "+355"
+    "countryCallingCode": "355"
   },
   {
     "countryNameEn": "Armenia",
@@ -77,7 +77,7 @@ const countriesData = [
     "officialLanguageCode": "hy",
     "officialLanguageNameEn": "Armenian",
     "officialLanguageNameLocal": "Հայերեն",
-    "countryCallingCode": "+374"
+    "countryCallingCode": "374"
   },
   {
     "countryNameEn": "Angola",
@@ -90,7 +90,7 @@ const countriesData = [
     "officialLanguageCode": "pt",
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
-    "countryCallingCode": "+244"
+    "countryCallingCode": "244"
   },
   {
     "countryNameEn": "Antarctica",
@@ -116,7 +116,7 @@ const countriesData = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "+54"
+    "countryCallingCode": "54"
   },
   {
     "countryNameEn": "American Samoa",
@@ -129,7 +129,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+1"
+    "countryCallingCode": "1"
   },
   {
     "countryNameEn": "Austria",
@@ -142,7 +142,7 @@ const countriesData = [
     "officialLanguageCode": "de",
     "officialLanguageNameEn": "German",
     "officialLanguageNameLocal": "Deutsch",
-    "countryCallingCode": "+43"
+    "countryCallingCode": "43"
   },
   {
     "countryNameEn": "Australia",
@@ -155,7 +155,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+61"
+    "countryCallingCode": "61"
   },
   {
     "countryNameEn": "Aruba",
@@ -168,7 +168,7 @@ const countriesData = [
     "officialLanguageCode": "nl",
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
-    "countryCallingCode": "+297"
+    "countryCallingCode": "297"
   },
   {
     "countryNameEn": "Åland Islands",
@@ -181,7 +181,7 @@ const countriesData = [
     "officialLanguageCode": "sv",
     "officialLanguageNameEn": "Swedish",
     "officialLanguageNameLocal": "Svenska",
-    "countryCallingCode": "+358"
+    "countryCallingCode": "358"
   },
   {
     "countryNameEn": "Azerbaijan",
@@ -194,7 +194,7 @@ const countriesData = [
     "officialLanguageCode": "az",
     "officialLanguageNameEn": "Azerbaijani",
     "officialLanguageNameLocal": "azərbaycan dili",
-    "countryCallingCode": "+994"
+    "countryCallingCode": "994"
   },
   {
     "countryNameEn": "Bosnia and Herzegovina",
@@ -207,7 +207,7 @@ const countriesData = [
     "officialLanguageCode": "bs",
     "officialLanguageNameEn": "Bosnian",
     "officialLanguageNameLocal": "bosanski jezik",
-    "countryCallingCode": "+387"
+    "countryCallingCode": "387"
   },
   {
     "countryNameEn": "Barbados",
@@ -220,7 +220,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+1"
+    "countryCallingCode": "1"
   },
   {
     "countryNameEn": "Bangladesh",
@@ -233,7 +233,7 @@ const countriesData = [
     "officialLanguageCode": "bn",
     "officialLanguageNameEn": "Bengali",
     "officialLanguageNameLocal": "বাংলা",
-    "countryCallingCode": "+880"
+    "countryCallingCode": "880"
   },
   {
     "countryNameEn": "Belgium",
@@ -246,7 +246,7 @@ const countriesData = [
     "officialLanguageCode": "nl",
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
-    "countryCallingCode": "+32"
+    "countryCallingCode": "32"
   },
   {
     "countryNameEn": "Burkina Faso",
@@ -259,7 +259,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+226"
+    "countryCallingCode": "226"
   },
   {
     "countryNameEn": "Bulgaria",
@@ -272,7 +272,7 @@ const countriesData = [
     "officialLanguageCode": "bg",
     "officialLanguageNameEn": "Bulgarian",
     "officialLanguageNameLocal": "български език",
-    "countryCallingCode": "+359"
+    "countryCallingCode": "359"
   },
   {
     "countryNameEn": "Bahrain",
@@ -285,7 +285,7 @@ const countriesData = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "+973"
+    "countryCallingCode": "973"
   },
   {
     "countryNameEn": "Burundi",
@@ -298,7 +298,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+257"
+    "countryCallingCode": "257"
   },
   {
     "countryNameEn": "Benin",
@@ -311,7 +311,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+229"
+    "countryCallingCode": "229"
   },
   {
     "countryNameEn": "Saint Barthélemy",
@@ -324,7 +324,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+590"
+    "countryCallingCode": "590"
   },
   {
     "countryNameEn": "Bermuda",
@@ -337,7 +337,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+1"
+    "countryCallingCode": "1"
   },
   {
     "countryNameEn": "Brunei Darussalam",
@@ -350,7 +350,7 @@ const countriesData = [
     "officialLanguageCode": "ms",
     "officialLanguageNameEn": "Malay",
     "officialLanguageNameLocal": "Bahasa Melayu, بهاس ملايو‎",
-    "countryCallingCode": "+673"
+    "countryCallingCode": "673"
   },
   {
     "countryNameEn": "Bolivia (Plurinational State of)",
@@ -389,7 +389,7 @@ const countriesData = [
     "officialLanguageCode": "pt",
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
-    "countryCallingCode": "+55"
+    "countryCallingCode": "55"
   },
   {
     "countryNameEn": "Bhutan",
@@ -402,7 +402,7 @@ const countriesData = [
     "officialLanguageCode": "dz",
     "officialLanguageNameEn": "Dzongkha",
     "officialLanguageNameLocal": "རྫོང་ཁ",
-    "countryCallingCode": "+975"
+    "countryCallingCode": "975"
   },
   {
     "countryNameEn": "Bouvet Island",
@@ -428,7 +428,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+267"
+    "countryCallingCode": "267"
   },
   {
     "countryNameEn": "Belarus",
@@ -441,7 +441,7 @@ const countriesData = [
     "officialLanguageCode": "be",
     "officialLanguageNameEn": "Belarusian",
     "officialLanguageNameLocal": "беларуская мова",
-    "countryCallingCode": "+375"
+    "countryCallingCode": "375"
   },
   {
     "countryNameEn": "Belize",
@@ -454,7 +454,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+501"
+    "countryCallingCode": "501"
   },
   {
     "countryNameEn": "Canada",
@@ -467,7 +467,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+1"
+    "countryCallingCode": "1"
   },
   {
     "countryNameEn": "Switzerland",
@@ -480,7 +480,7 @@ const countriesData = [
     "officialLanguageCode": "de",
     "officialLanguageNameEn": "German",
     "officialLanguageNameLocal": "Deutsch",
-    "countryCallingCode": "+41"
+    "countryCallingCode": "41"
   },
   {
     "countryNameEn": "Côte d'Ivoire",
@@ -506,7 +506,7 @@ const countriesData = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "+56"
+    "countryCallingCode": "56"
   },
   {
     "countryNameEn": "Cameroon",
@@ -519,7 +519,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+237"
+    "countryCallingCode": "237"
   },
   {
     "countryNameEn": "China",
@@ -532,7 +532,7 @@ const countriesData = [
     "officialLanguageCode": "zh-hans",
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
-    "countryCallingCode": "+86"
+    "countryCallingCode": "86"
   },
   {
     "countryNameEn": "Colombia",
@@ -545,7 +545,7 @@ const countriesData = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "+57"
+    "countryCallingCode": "57"
   },
   {
     "countryNameEn": "Costa Rica",
@@ -558,7 +558,7 @@ const countriesData = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "+506"
+    "countryCallingCode": "506"
   },
   {
     "countryNameEn": "Cuba",
@@ -571,7 +571,7 @@ const countriesData = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "+53"
+    "countryCallingCode": "53"
   },
   {
     "countryNameEn": "Cabo Verde",
@@ -597,7 +597,7 @@ const countriesData = [
     "officialLanguageCode": "nl",
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
-    "countryCallingCode": "+599"
+    "countryCallingCode": "599"
   },
   {
     "countryNameEn": "Christmas Island",
@@ -610,7 +610,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+61"
+    "countryCallingCode": "61"
   },
   {
     "countryNameEn": "Cyprus",
@@ -623,7 +623,7 @@ const countriesData = [
     "officialLanguageCode": "el",
     "officialLanguageNameEn": "Greek, Modern (1453-)",
     "officialLanguageNameLocal": "ελληνικά",
-    "countryCallingCode": "+357"
+    "countryCallingCode": "357"
   },
   {
     "countryNameEn": "Germany",
@@ -636,7 +636,7 @@ const countriesData = [
     "officialLanguageCode": "de",
     "officialLanguageNameEn": "German",
     "officialLanguageNameLocal": "Deutsch",
-    "countryCallingCode": "+49"
+    "countryCallingCode": "49"
   },
   {
     "countryNameEn": "Djibouti",
@@ -649,7 +649,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+253"
+    "countryCallingCode": "253"
   },
   {
     "countryNameEn": "Denmark",
@@ -662,7 +662,7 @@ const countriesData = [
     "officialLanguageCode": "da",
     "officialLanguageNameEn": "Danish",
     "officialLanguageNameLocal": "dansk",
-    "countryCallingCode": "+45"
+    "countryCallingCode": "45"
   },
   {
     "countryNameEn": "Dominica",
@@ -675,7 +675,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+1"
+    "countryCallingCode": "1"
   },
   {
     "countryNameEn": "Algeria",
@@ -688,7 +688,7 @@ const countriesData = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "+213"
+    "countryCallingCode": "213"
   },
   {
     "countryNameEn": "Ecuador",
@@ -701,7 +701,7 @@ const countriesData = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "+593"
+    "countryCallingCode": "593"
   },
   {
     "countryNameEn": "Estonia",
@@ -714,7 +714,7 @@ const countriesData = [
     "officialLanguageCode": "et",
     "officialLanguageNameEn": "Estonian",
     "officialLanguageNameLocal": "eesti, eesti keel",
-    "countryCallingCode": "+372"
+    "countryCallingCode": "372"
   },
   {
     "countryNameEn": "Egypt",
@@ -727,7 +727,7 @@ const countriesData = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "+20"
+    "countryCallingCode": "20"
   },
   {
     "countryNameEn": "Western Sahara",
@@ -753,7 +753,7 @@ const countriesData = [
     "officialLanguageCode": "ti",
     "officialLanguageNameEn": "Tigrinya",
     "officialLanguageNameLocal": "ትግርኛ",
-    "countryCallingCode": "+291"
+    "countryCallingCode": "291"
   },
   {
     "countryNameEn": "Spain",
@@ -766,7 +766,7 @@ const countriesData = [
     "officialLanguageCode": "ast",
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
-    "countryCallingCode": "+34"
+    "countryCallingCode": "34"
   },
   {
     "countryNameEn": "Ethiopia",
@@ -779,7 +779,7 @@ const countriesData = [
     "officialLanguageCode": "am",
     "officialLanguageNameEn": "Amharic",
     "officialLanguageNameLocal": "አማርኛ",
-    "countryCallingCode": "+251"
+    "countryCallingCode": "251"
   },
   {
     "countryNameEn": "Finland",
@@ -792,7 +792,7 @@ const countriesData = [
     "officialLanguageCode": "fi",
     "officialLanguageNameEn": "Finnish",
     "officialLanguageNameLocal": "suomi, suomen kieli",
-    "countryCallingCode": "+358"
+    "countryCallingCode": "358"
   },
   {
     "countryNameEn": "Fiji",
@@ -805,7 +805,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+679"
+    "countryCallingCode": "679"
   },
   {
     "countryNameEn": "Micronesia (Federated States of)",
@@ -831,7 +831,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+33"
+    "countryCallingCode": "33"
   },
   {
     "countryNameEn": "Gabon",
@@ -844,7 +844,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+241"
+    "countryCallingCode": "241"
   },
   {
     "countryNameEn": "Grenada",
@@ -857,7 +857,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+1"
+    "countryCallingCode": "1"
   },
   {
     "countryNameEn": "Georgia",
@@ -870,7 +870,7 @@ const countriesData = [
     "officialLanguageCode": "ka",
     "officialLanguageNameEn": "Georgian",
     "officialLanguageNameLocal": "ქართული",
-    "countryCallingCode": "+995"
+    "countryCallingCode": "995"
   },
   {
     "countryNameEn": "French Guiana",
@@ -883,7 +883,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+594"
+    "countryCallingCode": "594"
   },
   {
     "countryNameEn": "Guernsey",
@@ -896,7 +896,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+44"
+    "countryCallingCode": "44"
   },
   {
     "countryNameEn": "Ghana",
@@ -909,7 +909,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+233"
+    "countryCallingCode": "233"
   },
   {
     "countryNameEn": "Gibraltar",
@@ -922,7 +922,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+350"
+    "countryCallingCode": "350"
   },
   {
     "countryNameEn": "Greenland",
@@ -935,7 +935,7 @@ const countriesData = [
     "officialLanguageCode": "kl",
     "officialLanguageNameEn": "Kalaallisut, Greenlandic",
     "officialLanguageNameLocal": "kalaallisut, kalaallit oqaasii",
-    "countryCallingCode": "+299"
+    "countryCallingCode": "299"
   },
   {
     "countryNameEn": "Guinea",
@@ -948,7 +948,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+224"
+    "countryCallingCode": "224"
   },
   {
     "countryNameEn": "Guadeloupe",
@@ -961,7 +961,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+590"
+    "countryCallingCode": "590"
   },
   {
     "countryNameEn": "Equatorial Guinea",
@@ -974,7 +974,7 @@ const countriesData = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "+240"
+    "countryCallingCode": "240"
   },
   {
     "countryNameEn": "Greece",
@@ -987,7 +987,7 @@ const countriesData = [
     "officialLanguageCode": "el",
     "officialLanguageNameEn": "Greek, Modern (1453-)",
     "officialLanguageNameLocal": "ελληνικά",
-    "countryCallingCode": "+30"
+    "countryCallingCode": "30"
   },
   {
     "countryNameEn": "South Georgia and the South Sandwich Islands",
@@ -1000,7 +1000,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+500"
+    "countryCallingCode": "500"
   },
   {
     "countryNameEn": "Guatemala",
@@ -1013,7 +1013,7 @@ const countriesData = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "+502"
+    "countryCallingCode": "502"
   },
   {
     "countryNameEn": "Guam",
@@ -1026,7 +1026,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+1"
+    "countryCallingCode": "1"
   },
   {
     "countryNameEn": "Guinea-Bissau",
@@ -1039,7 +1039,7 @@ const countriesData = [
     "officialLanguageCode": "pt",
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
-    "countryCallingCode": "+245"
+    "countryCallingCode": "245"
   },
   {
     "countryNameEn": "Guyana",
@@ -1052,7 +1052,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+592"
+    "countryCallingCode": "592"
   },
   {
     "countryNameEn": "Hong Kong",
@@ -1065,7 +1065,7 @@ const countriesData = [
     "officialLanguageCode": "zh-hant",
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
-    "countryCallingCode": "+852"
+    "countryCallingCode": "852"
   },
   {
     "countryNameEn": "Honduras",
@@ -1078,7 +1078,7 @@ const countriesData = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "+504"
+    "countryCallingCode": "504"
   },
   {
     "countryNameEn": "Croatia",
@@ -1091,7 +1091,7 @@ const countriesData = [
     "officialLanguageCode": "hr",
     "officialLanguageNameEn": "Croatian",
     "officialLanguageNameLocal": "hrvatski jezik",
-    "countryCallingCode": "+385"
+    "countryCallingCode": "385"
   },
   {
     "countryNameEn": "Haiti",
@@ -1104,7 +1104,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+509"
+    "countryCallingCode": "509"
   },
   {
     "countryNameEn": "Hungary",
@@ -1117,7 +1117,7 @@ const countriesData = [
     "officialLanguageCode": "hu",
     "officialLanguageNameEn": "Hungarian",
     "officialLanguageNameLocal": "magyar",
-    "countryCallingCode": "+36"
+    "countryCallingCode": "36"
   },
   {
     "countryNameEn": "Indonesia",
@@ -1130,7 +1130,7 @@ const countriesData = [
     "officialLanguageCode": "id",
     "officialLanguageNameEn": "Indonesian",
     "officialLanguageNameLocal": "Bahasa Indonesia",
-    "countryCallingCode": "+62"
+    "countryCallingCode": "62"
   },
   {
     "countryNameEn": "Ireland",
@@ -1143,7 +1143,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+353"
+    "countryCallingCode": "353"
   },
   {
     "countryNameEn": "Israel",
@@ -1156,7 +1156,7 @@ const countriesData = [
     "officialLanguageCode": "he",
     "officialLanguageNameEn": "Hebrew",
     "officialLanguageNameLocal": "עברית",
-    "countryCallingCode": "+972"
+    "countryCallingCode": "972"
   },
   {
     "countryNameEn": "Isle of Man",
@@ -1169,7 +1169,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+44"
+    "countryCallingCode": "44"
   },
   {
     "countryNameEn": "India",
@@ -1182,7 +1182,7 @@ const countriesData = [
     "officialLanguageCode": "hi",
     "officialLanguageNameEn": "Hindi",
     "officialLanguageNameLocal": "हिन्दी, हिंदी",
-    "countryCallingCode": "+91"
+    "countryCallingCode": "91"
   },
   {
     "countryNameEn": "Iraq",
@@ -1195,7 +1195,7 @@ const countriesData = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "+964"
+    "countryCallingCode": "964"
   },
   {
     "countryNameEn": "Iran (Islamic Republic of)",
@@ -1221,7 +1221,7 @@ const countriesData = [
     "officialLanguageCode": "is",
     "officialLanguageNameEn": "Icelandic",
     "officialLanguageNameLocal": "Íslenska",
-    "countryCallingCode": "+354"
+    "countryCallingCode": "354"
   },
   {
     "countryNameEn": "Italy",
@@ -1234,7 +1234,7 @@ const countriesData = [
     "officialLanguageCode": "it",
     "officialLanguageNameEn": "Italian",
     "officialLanguageNameLocal": "Italiano",
-    "countryCallingCode": "+39"
+    "countryCallingCode": "39"
   },
   {
     "countryNameEn": "Jersey",
@@ -1247,7 +1247,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+44"
+    "countryCallingCode": "44"
   },
   {
     "countryNameEn": "Jamaica",
@@ -1260,7 +1260,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+1"
+    "countryCallingCode": "1"
   },
   {
     "countryNameEn": "Jordan",
@@ -1273,7 +1273,7 @@ const countriesData = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "+962"
+    "countryCallingCode": "962"
   },
   {
     "countryNameEn": "Japan",
@@ -1286,7 +1286,7 @@ const countriesData = [
     "officialLanguageCode": "ja",
     "officialLanguageNameEn": "Japanese",
     "officialLanguageNameLocal": "日本語 (にほんご)",
-    "countryCallingCode": "+81"
+    "countryCallingCode": "81"
   },
   {
     "countryNameEn": "Kenya",
@@ -1299,7 +1299,7 @@ const countriesData = [
     "officialLanguageCode": "sw",
     "officialLanguageNameEn": "Swahili",
     "officialLanguageNameLocal": "Kiswahili",
-    "countryCallingCode": "+254"
+    "countryCallingCode": "254"
   },
   {
     "countryNameEn": "Kyrgyzstan",
@@ -1312,7 +1312,7 @@ const countriesData = [
     "officialLanguageCode": "ky",
     "officialLanguageNameEn": "Kirghiz, Kyrgyz",
     "officialLanguageNameLocal": "Кыргызча, Кыргыз тили",
-    "countryCallingCode": "+996"
+    "countryCallingCode": "996"
   },
   {
     "countryNameEn": "Cambodia",
@@ -1325,7 +1325,7 @@ const countriesData = [
     "officialLanguageCode": "km",
     "officialLanguageNameEn": "Central Khmer",
     "officialLanguageNameLocal": "ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ",
-    "countryCallingCode": "+855"
+    "countryCallingCode": "855"
   },
   {
     "countryNameEn": "Kiribati",
@@ -1338,7 +1338,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+686"
+    "countryCallingCode": "686"
   },
   {
     "countryNameEn": "Saint Kitts and Nevis",
@@ -1351,7 +1351,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+1"
+    "countryCallingCode": "1"
   },
   {
     "countryNameEn": "Kuwait",
@@ -1364,7 +1364,7 @@ const countriesData = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "+965"
+    "countryCallingCode": "965"
   },
   {
     "countryNameEn": "Kazakhstan",
@@ -1377,7 +1377,7 @@ const countriesData = [
     "officialLanguageCode": "kk",
     "officialLanguageNameEn": "Kazakh",
     "officialLanguageNameLocal": "қазақ тілі",
-    "countryCallingCode": "+7"
+    "countryCallingCode": "7"
   },
   {
     "countryNameEn": "Lebanon",
@@ -1390,7 +1390,7 @@ const countriesData = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "+961"
+    "countryCallingCode": "961"
   },
   {
     "countryNameEn": "Saint Lucia",
@@ -1403,7 +1403,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+1"
+    "countryCallingCode": "1"
   },
   {
     "countryNameEn": "Liechtenstein",
@@ -1416,7 +1416,7 @@ const countriesData = [
     "officialLanguageCode": "de",
     "officialLanguageNameEn": "German",
     "officialLanguageNameLocal": "Deutsch",
-    "countryCallingCode": "+423"
+    "countryCallingCode": "423"
   },
   {
     "countryNameEn": "Sri Lanka",
@@ -1429,7 +1429,7 @@ const countriesData = [
     "officialLanguageCode": "si",
     "officialLanguageNameEn": "Sinhala, Sinhalese",
     "officialLanguageNameLocal": "සිංහල",
-    "countryCallingCode": "+94"
+    "countryCallingCode": "94"
   },
   {
     "countryNameEn": "Liberia",
@@ -1442,7 +1442,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+231"
+    "countryCallingCode": "231"
   },
   {
     "countryNameEn": "Lesotho",
@@ -1455,7 +1455,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+266"
+    "countryCallingCode": "266"
   },
   {
     "countryNameEn": "Lithuania",
@@ -1468,7 +1468,7 @@ const countriesData = [
     "officialLanguageCode": "lt",
     "officialLanguageNameEn": "Lithuanian",
     "officialLanguageNameLocal": "lietuvių kalba",
-    "countryCallingCode": "+370"
+    "countryCallingCode": "370"
   },
   {
     "countryNameEn": "Luxembourg",
@@ -1481,7 +1481,7 @@ const countriesData = [
     "officialLanguageCode": "lb",
     "officialLanguageNameEn": "Luxembourgish, Letzeburgesch",
     "officialLanguageNameLocal": "Lëtzebuergesch",
-    "countryCallingCode": "+352"
+    "countryCallingCode": "352"
   },
   {
     "countryNameEn": "Latvia",
@@ -1494,7 +1494,7 @@ const countriesData = [
     "officialLanguageCode": "lv",
     "officialLanguageNameEn": "Latvian",
     "officialLanguageNameLocal": "latviešu valoda",
-    "countryCallingCode": "+371"
+    "countryCallingCode": "371"
   },
   {
     "countryNameEn": "Libya",
@@ -1507,7 +1507,7 @@ const countriesData = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "+218"
+    "countryCallingCode": "218"
   },
   {
     "countryNameEn": "Morocco",
@@ -1520,7 +1520,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+212"
+    "countryCallingCode": "212"
   },
   {
     "countryNameEn": "Monaco",
@@ -1533,7 +1533,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+377"
+    "countryCallingCode": "377"
   },
   {
     "countryNameEn": "Montenegro",
@@ -1546,7 +1546,7 @@ const countriesData = [
     "officialLanguageCode": "srp",
     "officialLanguageNameEn": "српски језик",
     "officialLanguageNameLocal": "The ISO 639-2/T code srp deprecated the ISO 639-2/B code scc[2]",
-    "countryCallingCode": "+382"
+    "countryCallingCode": "382"
   },
   {
     "countryNameEn": "Saint Martin (French part)",
@@ -1572,7 +1572,7 @@ const countriesData = [
     "officialLanguageCode": "mg",
     "officialLanguageNameEn": "Malagasy",
     "officialLanguageNameLocal": "fiteny malagasy",
-    "countryCallingCode": "+261"
+    "countryCallingCode": "261"
   },
   {
     "countryNameEn": "Mali",
@@ -1585,7 +1585,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+223"
+    "countryCallingCode": "223"
   },
   {
     "countryNameEn": "Myanmar",
@@ -1598,7 +1598,7 @@ const countriesData = [
     "officialLanguageCode": "my",
     "officialLanguageNameEn": "Burmese",
     "officialLanguageNameLocal": "ဗမာစာ",
-    "countryCallingCode": "+95"
+    "countryCallingCode": "95"
   },
   {
     "countryNameEn": "Mongolia",
@@ -1611,7 +1611,7 @@ const countriesData = [
     "officialLanguageCode": "mn",
     "officialLanguageNameEn": "Mongolian",
     "officialLanguageNameLocal": "Монгол хэл",
-    "countryCallingCode": "+976"
+    "countryCallingCode": "976"
   },
   {
     "countryNameEn": "Macao",
@@ -1637,7 +1637,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+596"
+    "countryCallingCode": "596"
   },
   {
     "countryNameEn": "Mauritania",
@@ -1650,7 +1650,7 @@ const countriesData = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "+222"
+    "countryCallingCode": "222"
   },
   {
     "countryNameEn": "Montserrat",
@@ -1663,7 +1663,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+1"
+    "countryCallingCode": "1"
   },
   {
     "countryNameEn": "Malta",
@@ -1676,7 +1676,7 @@ const countriesData = [
     "officialLanguageCode": "mt",
     "officialLanguageNameEn": "Maltese",
     "officialLanguageNameLocal": "Malti",
-    "countryCallingCode": "+356"
+    "countryCallingCode": "356"
   },
   {
     "countryNameEn": "Mauritius",
@@ -1689,7 +1689,7 @@ const countriesData = [
     "officialLanguageCode": "mfe",
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
-    "countryCallingCode": "+230"
+    "countryCallingCode": "230"
   },
   {
     "countryNameEn": "Maldives",
@@ -1702,7 +1702,7 @@ const countriesData = [
     "officialLanguageCode": "dv",
     "officialLanguageNameEn": "Divehi, Dhivehi, Maldivian",
     "officialLanguageNameLocal": "ދިވެހި",
-    "countryCallingCode": "+960"
+    "countryCallingCode": "960"
   },
   {
     "countryNameEn": "Malawi",
@@ -1715,7 +1715,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+265"
+    "countryCallingCode": "265"
   },
   {
     "countryNameEn": "Mexico",
@@ -1728,7 +1728,7 @@ const countriesData = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "+52"
+    "countryCallingCode": "52"
   },
   {
     "countryNameEn": "Malaysia",
@@ -1741,7 +1741,7 @@ const countriesData = [
     "officialLanguageCode": "ms",
     "officialLanguageNameEn": "Malay",
     "officialLanguageNameLocal": "Bahasa Melayu, بهاس ملايو‎",
-    "countryCallingCode": "+60"
+    "countryCallingCode": "60"
   },
   {
     "countryNameEn": "Mozambique",
@@ -1754,7 +1754,7 @@ const countriesData = [
     "officialLanguageCode": "pt",
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
-    "countryCallingCode": "+258"
+    "countryCallingCode": "258"
   },
   {
     "countryNameEn": "Namibia",
@@ -1767,7 +1767,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+264"
+    "countryCallingCode": "264"
   },
   {
     "countryNameEn": "New Caledonia",
@@ -1780,7 +1780,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+687"
+    "countryCallingCode": "687"
   },
   {
     "countryNameEn": "Norfolk Island",
@@ -1793,7 +1793,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+672"
+    "countryCallingCode": "672"
   },
   {
     "countryNameEn": "Nigeria",
@@ -1806,7 +1806,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+234"
+    "countryCallingCode": "234"
   },
   {
     "countryNameEn": "Nicaragua",
@@ -1819,7 +1819,7 @@ const countriesData = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "+505"
+    "countryCallingCode": "505"
   },
   {
     "countryNameEn": "Norway",
@@ -1832,7 +1832,7 @@ const countriesData = [
     "officialLanguageCode": "nb",
     "officialLanguageNameEn": "Norwegian Bokmål",
     "officialLanguageNameLocal": "Norsk Bokmål",
-    "countryCallingCode": "+47"
+    "countryCallingCode": "47"
   },
   {
     "countryNameEn": "Nepal",
@@ -1845,7 +1845,7 @@ const countriesData = [
     "officialLanguageCode": "ne",
     "officialLanguageNameEn": "Nepali",
     "officialLanguageNameLocal": "नेपाली",
-    "countryCallingCode": "+977"
+    "countryCallingCode": "977"
   },
   {
     "countryNameEn": "Nauru",
@@ -1858,7 +1858,7 @@ const countriesData = [
     "officialLanguageCode": "na",
     "officialLanguageNameEn": "Nauru",
     "officialLanguageNameLocal": "Dorerin Naoero",
-    "countryCallingCode": "+674"
+    "countryCallingCode": "674"
   },
   {
     "countryNameEn": "Niue",
@@ -1871,7 +1871,7 @@ const countriesData = [
     "officialLanguageCode": "niu",
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
-    "countryCallingCode": "+683"
+    "countryCallingCode": "683"
   },
   {
     "countryNameEn": "New Zealand",
@@ -1884,7 +1884,7 @@ const countriesData = [
     "officialLanguageCode": "mi",
     "officialLanguageNameEn": "Maori",
     "officialLanguageNameLocal": "te reo Māori",
-    "countryCallingCode": "+64"
+    "countryCallingCode": "64"
   },
   {
     "countryNameEn": "Oman",
@@ -1897,7 +1897,7 @@ const countriesData = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "+968"
+    "countryCallingCode": "968"
   },
   {
     "countryNameEn": "Panama",
@@ -1910,7 +1910,7 @@ const countriesData = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "+507"
+    "countryCallingCode": "507"
   },
   {
     "countryNameEn": "Peru",
@@ -1923,7 +1923,7 @@ const countriesData = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "+51"
+    "countryCallingCode": "51"
   },
   {
     "countryNameEn": "French Polynesia",
@@ -1936,7 +1936,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+689"
+    "countryCallingCode": "689"
   },
   {
     "countryNameEn": "Papua New Guinea",
@@ -1949,7 +1949,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+675"
+    "countryCallingCode": "675"
   },
   {
     "countryNameEn": "Pakistan",
@@ -1962,7 +1962,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+92"
+    "countryCallingCode": "92"
   },
   {
     "countryNameEn": "Poland",
@@ -1975,7 +1975,7 @@ const countriesData = [
     "officialLanguageCode": "pl",
     "officialLanguageNameEn": "Polish",
     "officialLanguageNameLocal": "język polski, polszczyzna",
-    "countryCallingCode": "+48"
+    "countryCallingCode": "48"
   },
   {
     "countryNameEn": "Saint Pierre and Miquelon",
@@ -1988,7 +1988,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+508"
+    "countryCallingCode": "508"
   },
   {
     "countryNameEn": "Pitcairn",
@@ -2014,7 +2014,7 @@ const countriesData = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "+1"
+    "countryCallingCode": "1"
   },
   {
     "countryNameEn": "Palestine, State of",
@@ -2027,7 +2027,7 @@ const countriesData = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "+970"
+    "countryCallingCode": "970"
   },
   {
     "countryNameEn": "Portugal",
@@ -2040,7 +2040,7 @@ const countriesData = [
     "officialLanguageCode": "pt",
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
-    "countryCallingCode": "+351"
+    "countryCallingCode": "351"
   },
   {
     "countryNameEn": "Palau",
@@ -2053,7 +2053,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+680"
+    "countryCallingCode": "680"
   },
   {
     "countryNameEn": "Paraguay",
@@ -2066,7 +2066,7 @@ const countriesData = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "+595"
+    "countryCallingCode": "595"
   },
   {
     "countryNameEn": "Qatar",
@@ -2079,7 +2079,7 @@ const countriesData = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "+974"
+    "countryCallingCode": "974"
   },
   {
     "countryNameEn": "Réunion",
@@ -2092,7 +2092,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+262"
+    "countryCallingCode": "262"
   },
   {
     "countryNameEn": "Romania",
@@ -2105,7 +2105,7 @@ const countriesData = [
     "officialLanguageCode": "ro",
     "officialLanguageNameEn": "Romanian, Moldavian, Moldovan",
     "officialLanguageNameLocal": "Română",
-    "countryCallingCode": "+40"
+    "countryCallingCode": "40"
   },
   {
     "countryNameEn": "Serbia",
@@ -2118,7 +2118,7 @@ const countriesData = [
     "officialLanguageCode": "sr",
     "officialLanguageNameEn": "Serbian",
     "officialLanguageNameLocal": "српски језик",
-    "countryCallingCode": "+381"
+    "countryCallingCode": "381"
   },
   {
     "countryNameEn": "Russia",
@@ -2131,7 +2131,7 @@ const countriesData = [
     "officialLanguageCode": "ru",
     "officialLanguageNameEn": "Russian",
     "officialLanguageNameLocal": "русский",
-    "countryCallingCode": "+7"
+    "countryCallingCode": "7"
   },
   {
     "countryNameEn": "Rwanda",
@@ -2144,7 +2144,7 @@ const countriesData = [
     "officialLanguageCode": "rw",
     "officialLanguageNameEn": "Kinyarwanda",
     "officialLanguageNameLocal": "Ikinyarwanda",
-    "countryCallingCode": "+250"
+    "countryCallingCode": "250"
   },
   {
     "countryNameEn": "Saudi Arabia",
@@ -2157,7 +2157,7 @@ const countriesData = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "+966"
+    "countryCallingCode": "966"
   },
   {
     "countryNameEn": "Solomon Islands",
@@ -2170,7 +2170,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+677"
+    "countryCallingCode": "677"
   },
   {
     "countryNameEn": "Seychelles",
@@ -2183,7 +2183,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+248"
+    "countryCallingCode": "248"
   },
   {
     "countryNameEn": "Sweden",
@@ -2196,7 +2196,7 @@ const countriesData = [
     "officialLanguageCode": "sv",
     "officialLanguageNameEn": "Swedish",
     "officialLanguageNameLocal": "Svenska",
-    "countryCallingCode": "+46"
+    "countryCallingCode": "46"
   },
   {
     "countryNameEn": "Singapore",
@@ -2209,7 +2209,7 @@ const countriesData = [
     "officialLanguageCode": "zh-hans",
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
-    "countryCallingCode": "+65"
+    "countryCallingCode": "65"
   },
   {
     "countryNameEn": "Saint Helena, Ascension and Tristan da Cunha",
@@ -2235,7 +2235,7 @@ const countriesData = [
     "officialLanguageCode": "sl",
     "officialLanguageNameEn": "Slovenian",
     "officialLanguageNameLocal": "Slovenski Jezik, Slovenščina",
-    "countryCallingCode": "+386"
+    "countryCallingCode": "386"
   },
   {
     "countryNameEn": "Svalbard and Jan Mayen",
@@ -2261,7 +2261,7 @@ const countriesData = [
     "officialLanguageCode": "sk",
     "officialLanguageNameEn": "Slovak",
     "officialLanguageNameLocal": "Slovenčina, Slovenský Jazyk",
-    "countryCallingCode": "+421"
+    "countryCallingCode": "421"
   },
   {
     "countryNameEn": "Sierra Leone",
@@ -2274,7 +2274,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+232"
+    "countryCallingCode": "232"
   },
   {
     "countryNameEn": "San Marino",
@@ -2287,7 +2287,7 @@ const countriesData = [
     "officialLanguageCode": "it",
     "officialLanguageNameEn": "Italian",
     "officialLanguageNameLocal": "Italiano",
-    "countryCallingCode": "+378"
+    "countryCallingCode": "378"
   },
   {
     "countryNameEn": "Senegal",
@@ -2300,7 +2300,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+221"
+    "countryCallingCode": "221"
   },
   {
     "countryNameEn": "Somalia",
@@ -2313,7 +2313,7 @@ const countriesData = [
     "officialLanguageCode": "so",
     "officialLanguageNameEn": "Somali",
     "officialLanguageNameLocal": "Soomaaliga, af Soomaali",
-    "countryCallingCode": "+252"
+    "countryCallingCode": "252"
   },
   {
     "countryNameEn": "Suriname",
@@ -2326,7 +2326,7 @@ const countriesData = [
     "officialLanguageCode": "nl",
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
-    "countryCallingCode": "+597"
+    "countryCallingCode": "597"
   },
   {
     "countryNameEn": "South Sudan",
@@ -2339,7 +2339,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+211"
+    "countryCallingCode": "211"
   },
   {
     "countryNameEn": "Sao Tome and Principe",
@@ -2365,7 +2365,7 @@ const countriesData = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "+503"
+    "countryCallingCode": "503"
   },
   {
     "countryNameEn": "Sint Maarten (Dutch part)",
@@ -2404,7 +2404,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+235"
+    "countryCallingCode": "235"
   },
   {
     "countryNameEn": "Togo",
@@ -2417,7 +2417,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+228"
+    "countryCallingCode": "228"
   },
   {
     "countryNameEn": "Thailand",
@@ -2430,7 +2430,7 @@ const countriesData = [
     "officialLanguageCode": "th",
     "officialLanguageNameEn": "Thai",
     "officialLanguageNameLocal": "ไทย",
-    "countryCallingCode": "+66"
+    "countryCallingCode": "66"
   },
   {
     "countryNameEn": "Tajikistan",
@@ -2443,7 +2443,7 @@ const countriesData = [
     "officialLanguageCode": "tg",
     "officialLanguageNameEn": "Tajik",
     "officialLanguageNameLocal": "тоҷикӣ, toçikī, تاجیکی‎",
-    "countryCallingCode": "+992"
+    "countryCallingCode": "992"
   },
   {
     "countryNameEn": "Tokelau",
@@ -2456,7 +2456,7 @@ const countriesData = [
     "officialLanguageCode": "tkl",
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
-    "countryCallingCode": "+690"
+    "countryCallingCode": "690"
   },
   {
     "countryNameEn": "Timor-Leste",
@@ -2482,7 +2482,7 @@ const countriesData = [
     "officialLanguageCode": "tk",
     "officialLanguageNameEn": "Turkmen",
     "officialLanguageNameLocal": "Türkmen, Түркмен",
-    "countryCallingCode": "+993"
+    "countryCallingCode": "993"
   },
   {
     "countryNameEn": "Tunisia",
@@ -2495,7 +2495,7 @@ const countriesData = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "+216"
+    "countryCallingCode": "216"
   },
   {
     "countryNameEn": "Tonga",
@@ -2508,7 +2508,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+676"
+    "countryCallingCode": "676"
   },
   {
     "countryNameEn": "Turkey",
@@ -2521,7 +2521,7 @@ const countriesData = [
     "officialLanguageCode": "tr",
     "officialLanguageNameEn": "Turkish",
     "officialLanguageNameLocal": "Türkçe",
-    "countryCallingCode": "+90"
+    "countryCallingCode": "90"
   },
   {
     "countryNameEn": "Trinidad and Tobago",
@@ -2534,7 +2534,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+1"
+    "countryCallingCode": "1"
   },
   {
     "countryNameEn": "Tuvalu",
@@ -2547,7 +2547,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+688"
+    "countryCallingCode": "688"
   },
   {
     "countryNameEn": "United Republic of Tanzania",
@@ -2573,7 +2573,7 @@ const countriesData = [
     "officialLanguageCode": "uk",
     "officialLanguageNameEn": "Ukrainian",
     "officialLanguageNameLocal": "Українська",
-    "countryCallingCode": "+380"
+    "countryCallingCode": "380"
   },
   {
     "countryNameEn": "Uganda",
@@ -2586,7 +2586,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+256"
+    "countryCallingCode": "256"
   },
   {
     "countryNameEn": "United States of America",
@@ -2612,7 +2612,7 @@ const countriesData = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "+598"
+    "countryCallingCode": "598"
   },
   {
     "countryNameEn": "Uzbekistan",
@@ -2625,7 +2625,7 @@ const countriesData = [
     "officialLanguageCode": "uz",
     "officialLanguageNameEn": "Uzbek",
     "officialLanguageNameLocal": "Oʻzbek, Ўзбек, أۇزبېك‎",
-    "countryCallingCode": "+998"
+    "countryCallingCode": "998"
   },
   {
     "countryNameEn": "Saint Vincent and the Grenadines",
@@ -2638,7 +2638,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+1"
+    "countryCallingCode": "1"
   },
   {
     "countryNameEn": "Venezuela (Bolivarian Republic of)",
@@ -2703,7 +2703,7 @@ const countriesData = [
     "officialLanguageCode": "bi",
     "officialLanguageNameEn": "Bislama",
     "officialLanguageNameLocal": "Bislama",
-    "countryCallingCode": "+678"
+    "countryCallingCode": "678"
   },
   {
     "countryNameEn": "Wallis and Futuna",
@@ -2716,7 +2716,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+681"
+    "countryCallingCode": "681"
   },
   {
     "countryNameEn": "Samoa",
@@ -2729,7 +2729,7 @@ const countriesData = [
     "officialLanguageCode": "sm",
     "officialLanguageNameEn": "Samoan",
     "officialLanguageNameLocal": "gagana fa'a Samoa",
-    "countryCallingCode": "+685"
+    "countryCallingCode": "685"
   },
   {
     "countryNameEn": "Yemen",
@@ -2742,7 +2742,7 @@ const countriesData = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "+967"
+    "countryCallingCode": "967"
   },
   {
     "countryNameEn": "Mayotte",
@@ -2755,7 +2755,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+262"
+    "countryCallingCode": "262"
   },
   {
     "countryNameEn": "South Africa",
@@ -2768,7 +2768,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+27"
+    "countryCallingCode": "27"
   },
   {
     "countryNameEn": "Zambia",
@@ -2781,7 +2781,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+260"
+    "countryCallingCode": "260"
   },
   {
     "countryNameEn": "Zimbabwe",
@@ -2794,7 +2794,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+263"
+    "countryCallingCode": "263"
   },
   {
     "countryNameEn": "Eswatini",
@@ -2807,7 +2807,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+268"
+    "countryCallingCode": "268"
   },
   {
     "countryNameEn": "North Macedonia",
@@ -2820,7 +2820,7 @@ const countriesData = [
     "officialLanguageCode": "mk",
     "officialLanguageNameEn": "Macedonian",
     "officialLanguageNameLocal": "македонски јазик",
-    "countryCallingCode": "+389"
+    "countryCallingCode": "389"
   },
   {
     "countryNameEn": "Philippines",
@@ -2833,7 +2833,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+63"
+    "countryCallingCode": "63"
   },
   {
     "countryNameEn": "Netherlands",
@@ -2846,7 +2846,7 @@ const countriesData = [
     "officialLanguageCode": "nl",
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
-    "countryCallingCode": "+31"
+    "countryCallingCode": "31"
   },
   {
     "countryNameEn": "United Arab Emirates",
@@ -2859,7 +2859,7 @@ const countriesData = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "+971"
+    "countryCallingCode": "971"
   },
   {
     "countryNameEn": "Republic of Moldova",
@@ -2885,7 +2885,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "+220"
+    "countryCallingCode": "220"
   },
   {
     "countryNameEn": "Dominican Republic",
@@ -2898,7 +2898,7 @@ const countriesData = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "+1"
+    "countryCallingCode": "1"
   },
   {
     "countryNameEn": "Sudan",
@@ -2911,7 +2911,7 @@ const countriesData = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "+249"
+    "countryCallingCode": "249"
   },
   {
     "countryNameEn": "Lao People's Democratic Republic",
@@ -2989,7 +2989,7 @@ const countriesData = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "français, langue française",
-    "countryCallingCode": "+227"
+    "countryCallingCode": "227"
   }
 ]
 
