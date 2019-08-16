@@ -3001,16 +3001,52 @@ module.exports = {
     return countriesData
   },
   /**
+   * Returns a collection with fields mapped as requested
+   * @param {*} fields - Map of fields and placeholders 
+   */
+  customArray: function (fields = { name: '{countryNameEn} ({countryCode})', value: '{countryCode}'}, { sortBy = 'name' } = {}) {
+    const finalCollection = []
+    countriesData.forEach(countryData => {
+      let collectionObject = {}
+      for (const field in fields) {
+        collectionObject[field] = supplant(fields[field], countryData)
+      }
+      finalCollection.push(collectionObject)
+    })
+
+    if (sortBy && fields[sortBy]) {
+      finalCollection.sort(function(a, b) {
+        var textA = a[sortBy].toUpperCase(); // ignore upper and lowercase
+        var textB = b[sortBy].toUpperCase(); // ignore upper and lowercase
+        if (textA < textB) {
+          return -1;
+        }
+        if (textA > textB) {
+          return 1;
+        }
+        return 0;
+      })
+    }
+
+    return finalCollection
+  },
+  /**
    * Returns a custom object with the passed key as object key and a value made up with
    * values set in the placeholders of the label variable
    * @param {*} key - Key used to construct the object to return
    * @param {*} label - Placeholder like string, with all the fields that you want to use
    */
-  customList: function (key = 'countryCode', label = '{countryNameEn} ({countryCode})') {
+  customList: function (key = 'countryCode', label = '{countryNameEn} ({countryCode})', { filter } = {}) {
     const finalObject = {}
+    let data = countryData
+    if (typeof filter === 'function') {
+      data = data.filter(filter)
+    }
     countriesData.forEach(countryData => {
-      finalObject[countryData[key]] = supplant(label, countryData)
+      value = supplant(label, countryData)
+      finalObject[countryData[key]] = value
     })
+
     return finalObject
   }
 }
