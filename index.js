@@ -2599,7 +2599,7 @@ const countriesData = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": ""
+    "countryCallingCode": "1"
   },
   {
     "countryNameEn": "Uruguay",
