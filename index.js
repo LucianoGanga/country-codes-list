@@ -3038,7 +3038,7 @@ module.exports = {
    */
   customList: function (key = 'countryCode', label = '{countryNameEn} ({countryCode})', { filter } = {}) {
     const finalObject = {}
-    let data = countryData
+    let data = countriesData
     if (typeof filter === 'function') {
       data = data.filter(filter)
     }
