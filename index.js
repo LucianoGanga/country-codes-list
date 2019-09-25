@@ -1,7 +1,15 @@
+const groupBy = require('./utils/groupBy')
 const supplant = require('./utils/supplant')
 const countriesData = require('./countriesData')
 
-module.exports = {
+module.exports = {  
+  /**
+   * Returns some module utils
+   */
+  utils: {
+    groupBy: groupBy
+  },
+
   /**
    * Returns the list with all the countries data
    */
