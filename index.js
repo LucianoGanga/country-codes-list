@@ -66,7 +66,7 @@ module.exports = {
     if (typeof filter === 'function') {
       data = data.filter(filter)
     }
-    countriesData.forEach(countryData => {
+    data.forEach(countryData => {
       const value = supplant(label, countryData)
       finalObject[countryData[key]] = value
     })
