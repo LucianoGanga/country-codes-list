@@ -67,7 +67,7 @@ module.exports = {
       data = data.filter(filter)
     }
     countriesData.forEach(countryData => {
-      value = supplant(label, countryData)
+      const value = supplant(label, countryData)
       finalObject[countryData[key]] = value
     })
 
