@@ -28,9 +28,15 @@ module.exports = {
    * Returns a collection with fields mapped as requested
    * @param {*} fields - Map of fields and placeholders 
    */
-  customArray: function (fields = { name: '{countryNameEn} ({countryCode})', value: '{countryCode}'}, { sortBy = 'name' } = {}) {
+  customArray: function (fields = { name: '{countryNameEn} ({countryCode})', value: '{countryCode}'}, { sortBy = 'name', filter } = {}) {
     const finalCollection = []
-    countriesData.forEach(countryData => {
+
+    let data = countriesData
+    if (typeof filter === 'function') {
+      data = data.filter(filter)
+    }
+
+    data.forEach(countryData => {
       let collectionObject = {}
       for (const field in fields) {
         collectionObject[field] = supplant(fields[field], countryData)
