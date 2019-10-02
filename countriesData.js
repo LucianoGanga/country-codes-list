@@ -2974,7 +2974,7 @@ module.exports = [
       "officialLanguageCode": "en",
       "officialLanguageNameEn": "English",
       "officialLanguageNameLocal": "English",
-      "countryCallingCode": ""
+      "countryCallingCode": "44"
     },
     {
       "countryNameEn": "Niger",
