@@ -53,17 +53,9 @@ module.exports = {
     })
 
     if (sortBy && fields[sortBy]) {
-      finalCollection.sort(function(a, b) {
-        var textA = a[sortBy].toUpperCase(); // ignore upper and lowercase
-        var textB = b[sortBy].toUpperCase(); // ignore upper and lowercase
-        if (textA < textB) {
-          return -1;
-        }
-        if (textA > textB) {
-          return 1;
-        }
-        return 0;
-      })
+      // ignore upper and lowercase
+      const collator = new Intl.Collator([], {sensitivity:'accent'})
+      finalCollection.sort((a, b) => collator.compare(a[sortBy], b[sortBy]))
     }
 
     return finalCollection
