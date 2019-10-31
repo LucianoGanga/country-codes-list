@@ -2649,7 +2649,7 @@ module.exports = [
       "officialLanguageCode": "es",
       "officialLanguageNameEn": "Spanish, Castilian",
       "officialLanguageNameLocal": "Español",
-      "countryCallingCode": ""
+      "countryCallingCode": "58"
     },
     {
       "countryNameEn": "Virgin Islands (British)",
