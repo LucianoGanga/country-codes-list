@@ -361,7 +361,7 @@ module.exports = [
       "officialLanguageCode": "es",
       "officialLanguageNameEn": "Spanish, Castilian",
       "officialLanguageNameLocal": "Español",
-      "countryCallingCode": ""
+      "countryCallingCode": "591"
     },
     {
       "countryNameEn": "Bonaire, Sint Eustatius and Saba",
@@ -2961,7 +2961,7 @@ module.exports = [
       "officialLanguageCode": "cs",
       "officialLanguageNameEn": "Czech",
       "officialLanguageNameLocal": "Čeština",
-      "countryCallingCode": ""
+      "countryCallingCode": "420"
     },
     {
       "countryNameEn": "Great Britain",
