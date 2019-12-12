@@ -10,7 +10,7 @@ Module with list of codes per country, which includes:
 - Official language code (usually from ISO 639-1, or ISO 639-3 otherwise)): Obtained from [Open Street Map](https://wiki.openstreetmap.org/wiki/Nominatim/Country_Codes). Returns only the first official language code per country
 - Official language name: Each name in english and in the local country language
 - Country Calling Code: The phone calling code for the country. Obtained from [Wikipedia](https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region). 
-
+- Region: The Regional Classifications are from the [International Telecommunications Union](http://www.itu.int/ITU-D/ict/definitions/regions/index.html). Seen [here](https://meta.wikimedia.org/wiki/List_of_countries_by_regional_classification)
 
 
 # Installation
@@ -37,6 +37,8 @@ The possible values for the object key and the placeholders are:
 - officialLanguageNameEn
 - officialLanguageNameLocal
 - countryCallingCode
+- region
+- globalSouth
 
 #### Example
 
