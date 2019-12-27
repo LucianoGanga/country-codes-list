@@ -40,7 +40,7 @@ module.exports = module.exports = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "1",
+    "countryCallingCode": "1268",
     "region": "South/Latin America",
     "flag": "🇦🇬"
   },
@@ -55,7 +55,7 @@ module.exports = module.exports = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "1",
+    "countryCallingCode": "1264",
     "region": "South/Latin America",
     "flag": "🇦🇮"
   },
@@ -145,7 +145,7 @@ module.exports = module.exports = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "1",
+    "countryCallingCode": "1684",
     "region": "Asia & Pacific",
     "flag": "🇦🇸"
   },
@@ -250,7 +250,7 @@ module.exports = module.exports = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "1",
+    "countryCallingCode": "1246",
     "region": "South/Latin America",
     "flag": "🇧🇧"
   },
@@ -385,7 +385,7 @@ module.exports = module.exports = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "1",
+    "countryCallingCode": "1441",
     "region": "North America",
     "flag": "🇧🇲"
   },
@@ -775,7 +775,7 @@ module.exports = module.exports = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "1",
+    "countryCallingCode": "767",
     "region": "South/Latin America",
     "flag": "🇩🇲"
   },
@@ -985,7 +985,7 @@ module.exports = module.exports = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "1",
+    "countryCallingCode": "1473",
     "region": "South/Latin America",
     "flag": "🇬🇩"
   },
@@ -1450,7 +1450,7 @@ module.exports = module.exports = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "1",
+    "countryCallingCode": "876",
     "region": "South/Latin America",
     "flag": "🇯🇲"
   },
@@ -1555,7 +1555,7 @@ module.exports = module.exports = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "1",
+    "countryCallingCode": "1869",
     "region": "South/Latin America",
     "flag": "🇰🇳"
   },
@@ -1615,7 +1615,7 @@ module.exports = module.exports = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "1",
+    "countryCallingCode": "1758",
     "region": "South/Latin America",
     "flag": "🇱🇨"
   },
@@ -1915,7 +1915,7 @@ module.exports = module.exports = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "1",
+    "countryCallingCode": "1664",
     "region": "South/Latin America",
     "flag": "🇲🇸"
   },
@@ -2920,7 +2920,7 @@ module.exports = module.exports = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "1",
+    "countryCallingCode": "868",
     "region": "South/Latin America",
     "flag": "🇹🇹"
   },
@@ -3040,7 +3040,7 @@ module.exports = module.exports = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "1",
+    "countryCallingCode": "1784",
     "region": "South/Latin America",
     "flag": "🇻🇨"
   },
@@ -3340,7 +3340,7 @@ module.exports = module.exports = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "1",
+    "countryCallingCode": "809",
     "region": "South/Latin America",
     "flag": "🇩🇴"
   },
