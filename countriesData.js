@@ -11,7 +11,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Catalan, Valencian",
     "officialLanguageNameLocal": "Català, Valencià",
     "countryCallingCode": "376",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇦🇩"
   },
   {
     "countryNameEn": "Afghanistan",
@@ -25,7 +26,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Persian",
     "officialLanguageNameLocal": "فارسی",
     "countryCallingCode": "93",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇦🇫"
   },
   {
     "countryNameEn": "Antigua and Barbuda",
@@ -39,7 +41,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇦🇬"
   },
   {
     "countryNameEn": "Anguilla",
@@ -53,7 +56,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇦🇮"
   },
   {
     "countryNameEn": "Albania",
@@ -67,7 +71,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Albanian",
     "officialLanguageNameLocal": "Shqip",
     "countryCallingCode": "355",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇦🇱"
   },
   {
     "countryNameEn": "Armenia",
@@ -81,7 +86,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Armenian",
     "officialLanguageNameLocal": "Հայերեն",
     "countryCallingCode": "374",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇦🇲"
   },
   {
     "countryNameEn": "Angola",
@@ -95,7 +101,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
     "countryCallingCode": "244",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇦🇴"
   },
   {
     "countryNameEn": "Antarctica",
@@ -109,7 +116,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇦🇶"
   },
   {
     "countryNameEn": "Argentina",
@@ -123,7 +131,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "54",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇦🇷"
   },
   {
     "countryNameEn": "American Samoa",
@@ -137,7 +146,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇦🇸"
   },
   {
     "countryNameEn": "Austria",
@@ -151,7 +161,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "German",
     "officialLanguageNameLocal": "Deutsch",
     "countryCallingCode": "43",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇦🇹"
   },
   {
     "countryNameEn": "Australia",
@@ -165,7 +176,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "61",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇦🇺"
   },
   {
     "countryNameEn": "Aruba",
@@ -179,7 +191,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
     "countryCallingCode": "297",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇦🇼"
   },
   {
     "countryNameEn": "Åland Islands",
@@ -193,7 +206,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Swedish",
     "officialLanguageNameLocal": "Svenska",
     "countryCallingCode": "358",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇦🇽"
   },
   {
     "countryNameEn": "Azerbaijan",
@@ -207,7 +221,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Azerbaijani",
     "officialLanguageNameLocal": "azərbaycan dili",
     "countryCallingCode": "994",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇦🇿"
   },
   {
     "countryNameEn": "Bosnia and Herzegovina",
@@ -221,7 +236,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Bosnian",
     "officialLanguageNameLocal": "bosanski jezik",
     "countryCallingCode": "387",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇧🇦"
   },
   {
     "countryNameEn": "Barbados",
@@ -235,7 +251,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇧🇧"
   },
   {
     "countryNameEn": "Bangladesh",
@@ -249,7 +266,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Bengali",
     "officialLanguageNameLocal": "বাংলা",
     "countryCallingCode": "880",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇧🇩"
   },
   {
     "countryNameEn": "Belgium",
@@ -263,7 +281,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
     "countryCallingCode": "32",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇧🇪"
   },
   {
     "countryNameEn": "Burkina Faso",
@@ -277,7 +296,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "226",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇧🇫"
   },
   {
     "countryNameEn": "Bulgaria",
@@ -291,7 +311,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Bulgarian",
     "officialLanguageNameLocal": "български език",
     "countryCallingCode": "359",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇧🇬"
   },
   {
     "countryNameEn": "Bahrain",
@@ -305,7 +326,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "973",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇧🇭"
   },
   {
     "countryNameEn": "Burundi",
@@ -319,7 +341,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "257",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇧🇮"
   },
   {
     "countryNameEn": "Benin",
@@ -333,7 +356,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "229",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇧🇯"
   },
   {
     "countryNameEn": "Saint Barthélemy",
@@ -347,7 +371,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "590",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇧🇱"
   },
   {
     "countryNameEn": "Bermuda",
@@ -361,7 +386,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
-    "region": "North America"
+    "region": "North America",
+    "flag": "🇧🇲"
   },
   {
     "countryNameEn": "Brunei Darussalam",
@@ -375,7 +401,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Malay",
     "officialLanguageNameLocal": "Bahasa Melayu, بهاس ملايو‎",
     "countryCallingCode": "673",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇧🇳"
   },
   {
     "countryNameEn": "Bolivia (Plurinational State of)",
@@ -389,7 +416,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "591",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇧🇴"
   },
   {
     "countryNameEn": "Bonaire, Sint Eustatius and Saba",
@@ -403,7 +431,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
     "countryCallingCode": "",
-    "region": "Unknown"
+    "region": "Unknown",
+    "flag": "🇧🇶"
   },
   {
     "countryNameEn": "Brazil",
@@ -417,7 +446,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
     "countryCallingCode": "55",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇧🇷"
   },
   {
     "countryNameEn": "Bhutan",
@@ -431,7 +461,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Dzongkha",
     "officialLanguageNameLocal": "རྫོང་ཁ",
     "countryCallingCode": "975",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇧🇹"
   },
   {
     "countryNameEn": "Bouvet Island",
@@ -445,7 +476,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Norwegian",
     "officialLanguageNameLocal": "Norsk",
     "countryCallingCode": "",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇧🇻"
   },
   {
     "countryNameEn": "Botswana",
@@ -459,7 +491,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "267",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇧🇼"
   },
   {
     "countryNameEn": "Belarus",
@@ -473,7 +506,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Belarusian",
     "officialLanguageNameLocal": "беларуская мова",
     "countryCallingCode": "375",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇧🇾"
   },
   {
     "countryNameEn": "Belize",
@@ -487,7 +521,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "501",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇧🇿"
   },
   {
     "countryNameEn": "Canada",
@@ -501,7 +536,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
-    "region": "North America"
+    "region": "North America",
+    "flag": "🇨🇦"
   },
   {
     "countryNameEn": "Switzerland",
@@ -515,7 +551,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "German",
     "officialLanguageNameLocal": "Deutsch",
     "countryCallingCode": "41",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇨🇭"
   },
   {
     "countryNameEn": "Côte d'Ivoire",
@@ -529,7 +566,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇨🇮"
   },
   {
     "countryNameEn": "Chile",
@@ -543,7 +581,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "56",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇨🇱"
   },
   {
     "countryNameEn": "Cameroon",
@@ -557,7 +596,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "237",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇨🇲"
   },
   {
     "countryNameEn": "China",
@@ -571,7 +611,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "86",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇨🇳"
   },
   {
     "countryNameEn": "Colombia",
@@ -585,7 +626,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "57",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇨🇴"
   },
   {
     "countryNameEn": "Costa Rica",
@@ -599,7 +641,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "506",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇨🇷"
   },
   {
     "countryNameEn": "Cuba",
@@ -613,7 +656,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "53",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇨🇺"
   },
   {
     "countryNameEn": "Cabo Verde",
@@ -627,7 +671,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
     "countryCallingCode": "",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇨🇻"
   },
   {
     "countryNameEn": "Curaçao",
@@ -641,7 +686,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
     "countryCallingCode": "599",
-    "region": "Unknown"
+    "region": "Unknown",
+    "flag": "🇨🇼"
   },
   {
     "countryNameEn": "Christmas Island",
@@ -655,7 +701,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "61",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇨🇽"
   },
   {
     "countryNameEn": "Cyprus",
@@ -669,7 +716,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Greek, Modern (1453-)",
     "officialLanguageNameLocal": "ελληνικά",
     "countryCallingCode": "357",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇨🇾"
   },
   {
     "countryNameEn": "Germany",
@@ -683,7 +731,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "German",
     "officialLanguageNameLocal": "Deutsch",
     "countryCallingCode": "49",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇩🇪"
   },
   {
     "countryNameEn": "Djibouti",
@@ -697,7 +746,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "253",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇩🇯"
   },
   {
     "countryNameEn": "Denmark",
@@ -711,7 +761,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Danish",
     "officialLanguageNameLocal": "dansk",
     "countryCallingCode": "45",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇩🇰"
   },
   {
     "countryNameEn": "Dominica",
@@ -725,7 +776,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇩🇲"
   },
   {
     "countryNameEn": "Algeria",
@@ -739,7 +791,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "213",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇩🇿"
   },
   {
     "countryNameEn": "Ecuador",
@@ -753,7 +806,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "593",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇪🇨"
   },
   {
     "countryNameEn": "Estonia",
@@ -767,7 +821,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Estonian",
     "officialLanguageNameLocal": "eesti, eesti keel",
     "countryCallingCode": "372",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇪🇪"
   },
   {
     "countryNameEn": "Egypt",
@@ -781,7 +836,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "20",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇪🇬"
   },
   {
     "countryNameEn": "Western Sahara",
@@ -795,7 +851,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇪🇭"
   },
   {
     "countryNameEn": "Eritrea",
@@ -809,7 +866,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Tigrinya",
     "officialLanguageNameLocal": "ትግርኛ",
     "countryCallingCode": "291",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇪🇷"
   },
   {
     "countryNameEn": "Spain",
@@ -823,7 +881,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "34",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇪🇸"
   },
   {
     "countryNameEn": "Ethiopia",
@@ -837,7 +896,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Amharic",
     "officialLanguageNameLocal": "አማርኛ",
     "countryCallingCode": "251",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇪🇹"
   },
   {
     "countryNameEn": "Finland",
@@ -851,7 +911,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Finnish",
     "officialLanguageNameLocal": "suomi, suomen kieli",
     "countryCallingCode": "358",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇫🇮"
   },
   {
     "countryNameEn": "Fiji",
@@ -865,7 +926,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "679",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇫🇯"
   },
   {
     "countryNameEn": "Micronesia (Federated States of)",
@@ -879,7 +941,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇫🇲"
   },
   {
     "countryNameEn": "France",
@@ -893,7 +956,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "33",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇫🇷"
   },
   {
     "countryNameEn": "Gabon",
@@ -907,7 +971,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "241",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇬🇦"
   },
   {
     "countryNameEn": "Grenada",
@@ -921,7 +986,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇬🇩"
   },
   {
     "countryNameEn": "Georgia",
@@ -935,7 +1001,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Georgian",
     "officialLanguageNameLocal": "ქართული",
     "countryCallingCode": "995",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇬🇪"
   },
   {
     "countryNameEn": "French Guiana",
@@ -949,7 +1016,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "594",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇬🇫"
   },
   {
     "countryNameEn": "Guernsey",
@@ -963,7 +1031,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "44",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇬🇬"
   },
   {
     "countryNameEn": "Ghana",
@@ -977,7 +1046,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "233",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇬🇭"
   },
   {
     "countryNameEn": "Gibraltar",
@@ -991,7 +1061,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "350",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇬🇮"
   },
   {
     "countryNameEn": "Greenland",
@@ -1005,7 +1076,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Kalaallisut, Greenlandic",
     "officialLanguageNameLocal": "kalaallisut, kalaallit oqaasii",
     "countryCallingCode": "299",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇬🇱"
   },
   {
     "countryNameEn": "Guinea",
@@ -1019,7 +1091,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "224",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇬🇳"
   },
   {
     "countryNameEn": "Guadeloupe",
@@ -1033,7 +1106,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "590",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇬🇵"
   },
   {
     "countryNameEn": "Equatorial Guinea",
@@ -1047,7 +1121,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "240",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇬🇶"
   },
   {
     "countryNameEn": "Greece",
@@ -1061,7 +1136,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Greek, Modern (1453-)",
     "officialLanguageNameLocal": "ελληνικά",
     "countryCallingCode": "30",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇬🇷"
   },
   {
     "countryNameEn": "South Georgia and the South Sandwich Islands",
@@ -1075,7 +1151,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "500",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇬🇸"
   },
   {
     "countryNameEn": "Guatemala",
@@ -1089,7 +1166,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "502",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇬🇹"
   },
   {
     "countryNameEn": "Guam",
@@ -1103,7 +1181,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇬🇺"
   },
   {
     "countryNameEn": "Guinea-Bissau",
@@ -1117,7 +1196,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
     "countryCallingCode": "245",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇬🇼"
   },
   {
     "countryNameEn": "Guyana",
@@ -1131,7 +1211,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "592",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇬🇾"
   },
   {
     "countryNameEn": "Hong Kong",
@@ -1145,7 +1226,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "852",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇭🇰"
   },
   {
     "countryNameEn": "Honduras",
@@ -1159,7 +1241,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "504",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇭🇳"
   },
   {
     "countryNameEn": "Croatia",
@@ -1173,7 +1256,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Croatian",
     "officialLanguageNameLocal": "hrvatski jezik",
     "countryCallingCode": "385",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇭🇷"
   },
   {
     "countryNameEn": "Haiti",
@@ -1187,7 +1271,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "509",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇭🇹"
   },
   {
     "countryNameEn": "Hungary",
@@ -1201,7 +1286,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Hungarian",
     "officialLanguageNameLocal": "magyar",
     "countryCallingCode": "36",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇭🇺"
   },
   {
     "countryNameEn": "Indonesia",
@@ -1215,7 +1301,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Indonesian",
     "officialLanguageNameLocal": "Bahasa Indonesia",
     "countryCallingCode": "62",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇮🇩"
   },
   {
     "countryNameEn": "Ireland",
@@ -1229,7 +1316,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "353",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇮🇪"
   },
   {
     "countryNameEn": "Israel",
@@ -1243,7 +1331,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Hebrew",
     "officialLanguageNameLocal": "עברית",
     "countryCallingCode": "972",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇮🇱"
   },
   {
     "countryNameEn": "Isle of Man",
@@ -1257,7 +1346,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "44",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇮🇲"
   },
   {
     "countryNameEn": "India",
@@ -1271,7 +1361,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Hindi",
     "officialLanguageNameLocal": "हिन्दी, हिंदी",
     "countryCallingCode": "91",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇮🇳"
   },
   {
     "countryNameEn": "Iraq",
@@ -1285,7 +1376,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "964",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇮🇶"
   },
   {
     "countryNameEn": "Iran (Islamic Republic of)",
@@ -1299,7 +1391,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Persian",
     "officialLanguageNameLocal": "فارسی",
     "countryCallingCode": "",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇮🇷"
   },
   {
     "countryNameEn": "Iceland",
@@ -1313,7 +1406,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Icelandic",
     "officialLanguageNameLocal": "Íslenska",
     "countryCallingCode": "354",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇮🇸"
   },
   {
     "countryNameEn": "Italy",
@@ -1327,7 +1421,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Italian",
     "officialLanguageNameLocal": "Italiano",
     "countryCallingCode": "39",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇮🇹"
   },
   {
     "countryNameEn": "Jersey",
@@ -1341,7 +1436,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "44",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇯🇪"
   },
   {
     "countryNameEn": "Jamaica",
@@ -1355,7 +1451,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇯🇲"
   },
   {
     "countryNameEn": "Jordan",
@@ -1369,7 +1466,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "962",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇯🇴"
   },
   {
     "countryNameEn": "Japan",
@@ -1383,7 +1481,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Japanese",
     "officialLanguageNameLocal": "日本語 (にほんご)",
     "countryCallingCode": "81",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇯🇵"
   },
   {
     "countryNameEn": "Kenya",
@@ -1397,7 +1496,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Swahili",
     "officialLanguageNameLocal": "Kiswahili",
     "countryCallingCode": "254",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇰🇪"
   },
   {
     "countryNameEn": "Kyrgyzstan",
@@ -1411,7 +1511,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Kirghiz, Kyrgyz",
     "officialLanguageNameLocal": "Кыргызча, Кыргыз тили",
     "countryCallingCode": "996",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇰🇬"
   },
   {
     "countryNameEn": "Cambodia",
@@ -1425,7 +1526,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Central Khmer",
     "officialLanguageNameLocal": "ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ",
     "countryCallingCode": "855",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇰🇭"
   },
   {
     "countryNameEn": "Kiribati",
@@ -1439,7 +1541,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "686",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇰🇮"
   },
   {
     "countryNameEn": "Saint Kitts and Nevis",
@@ -1453,7 +1556,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇰🇳"
   },
   {
     "countryNameEn": "Kuwait",
@@ -1467,7 +1571,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "965",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇰🇼"
   },
   {
     "countryNameEn": "Kazakhstan",
@@ -1481,7 +1586,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Kazakh",
     "officialLanguageNameLocal": "қазақ тілі",
     "countryCallingCode": "7",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇰🇿"
   },
   {
     "countryNameEn": "Lebanon",
@@ -1495,7 +1601,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "961",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇱🇧"
   },
   {
     "countryNameEn": "Saint Lucia",
@@ -1509,7 +1616,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇱🇨"
   },
   {
     "countryNameEn": "Liechtenstein",
@@ -1523,7 +1631,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "German",
     "officialLanguageNameLocal": "Deutsch",
     "countryCallingCode": "423",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇱🇮"
   },
   {
     "countryNameEn": "Sri Lanka",
@@ -1537,7 +1646,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Sinhala, Sinhalese",
     "officialLanguageNameLocal": "සිංහල",
     "countryCallingCode": "94",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇱🇰"
   },
   {
     "countryNameEn": "Liberia",
@@ -1551,7 +1661,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "231",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇱🇷"
   },
   {
     "countryNameEn": "Lesotho",
@@ -1565,7 +1676,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "266",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇱🇸"
   },
   {
     "countryNameEn": "Lithuania",
@@ -1579,7 +1691,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Lithuanian",
     "officialLanguageNameLocal": "lietuvių kalba",
     "countryCallingCode": "370",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇱🇹"
   },
   {
     "countryNameEn": "Luxembourg",
@@ -1593,7 +1706,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Luxembourgish, Letzeburgesch",
     "officialLanguageNameLocal": "Lëtzebuergesch",
     "countryCallingCode": "352",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇱🇺"
   },
   {
     "countryNameEn": "Latvia",
@@ -1607,7 +1721,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Latvian",
     "officialLanguageNameLocal": "latviešu valoda",
     "countryCallingCode": "371",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇱🇻"
   },
   {
     "countryNameEn": "Libya",
@@ -1621,7 +1736,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "218",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇱🇾"
   },
   {
     "countryNameEn": "Morocco",
@@ -1635,7 +1751,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "212",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇲🇦"
   },
   {
     "countryNameEn": "Monaco",
@@ -1649,7 +1766,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "377",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇲🇨"
   },
   {
     "countryNameEn": "Montenegro",
@@ -1663,7 +1781,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "српски језик",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "382",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇲🇪"
   },
   {
     "countryNameEn": "Saint Martin (French part)",
@@ -1677,7 +1796,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇲🇫"
   },
   {
     "countryNameEn": "Madagascar",
@@ -1691,7 +1811,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Malagasy",
     "officialLanguageNameLocal": "fiteny malagasy",
     "countryCallingCode": "261",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇲🇬"
   },
   {
     "countryNameEn": "Mali",
@@ -1705,7 +1826,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "223",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇲🇱"
   },
   {
     "countryNameEn": "Myanmar",
@@ -1719,7 +1841,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Burmese",
     "officialLanguageNameLocal": "ဗမာစာ",
     "countryCallingCode": "95",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇲🇲"
   },
   {
     "countryNameEn": "Mongolia",
@@ -1733,7 +1856,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Mongolian",
     "officialLanguageNameLocal": "Монгол хэл",
     "countryCallingCode": "976",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇲🇳"
   },
   {
     "countryNameEn": "Macao",
@@ -1747,7 +1871,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇲🇴"
   },
   {
     "countryNameEn": "Martinique",
@@ -1761,7 +1886,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "596",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇲🇶"
   },
   {
     "countryNameEn": "Mauritania",
@@ -1775,7 +1901,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "222",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇲🇷"
   },
   {
     "countryNameEn": "Montserrat",
@@ -1789,7 +1916,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇲🇸"
   },
   {
     "countryNameEn": "Malta",
@@ -1803,7 +1931,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Maltese",
     "officialLanguageNameLocal": "Malti",
     "countryCallingCode": "356",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇲🇹"
   },
   {
     "countryNameEn": "Mauritius",
@@ -1817,7 +1946,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "230",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇲🇺"
   },
   {
     "countryNameEn": "Maldives",
@@ -1831,7 +1961,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Divehi, Dhivehi, Maldivian",
     "officialLanguageNameLocal": "ދިވެހި",
     "countryCallingCode": "960",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇲🇻"
   },
   {
     "countryNameEn": "Malawi",
@@ -1845,7 +1976,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "265",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇲🇼"
   },
   {
     "countryNameEn": "Mexico",
@@ -1859,7 +1991,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "52",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇲🇽"
   },
   {
     "countryNameEn": "Malaysia",
@@ -1873,7 +2006,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Malay",
     "officialLanguageNameLocal": "Bahasa Melayu, بهاس ملايو‎",
     "countryCallingCode": "60",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇲🇾"
   },
   {
     "countryNameEn": "Mozambique",
@@ -1887,7 +2021,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
     "countryCallingCode": "258",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇲🇿"
   },
   {
     "countryNameEn": "Namibia",
@@ -1901,7 +2036,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "264",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇳🇦"
   },
   {
     "countryNameEn": "New Caledonia",
@@ -1915,7 +2051,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "687",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇳🇨"
   },
   {
     "countryNameEn": "Norfolk Island",
@@ -1929,7 +2066,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "672",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇳🇫"
   },
   {
     "countryNameEn": "Nigeria",
@@ -1943,7 +2081,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "234",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇳🇬"
   },
   {
     "countryNameEn": "Nicaragua",
@@ -1957,7 +2096,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "505",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇳🇮"
   },
   {
     "countryNameEn": "Norway",
@@ -1971,7 +2111,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Norwegian Bokmål",
     "officialLanguageNameLocal": "Norsk Bokmål",
     "countryCallingCode": "47",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇳🇴"
   },
   {
     "countryNameEn": "Nepal",
@@ -1985,7 +2126,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Nepali",
     "officialLanguageNameLocal": "नेपाली",
     "countryCallingCode": "977",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇳🇵"
   },
   {
     "countryNameEn": "Nauru",
@@ -1999,7 +2141,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Nauru",
     "officialLanguageNameLocal": "Dorerin Naoero",
     "countryCallingCode": "674",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇳🇷"
   },
   {
     "countryNameEn": "Niue",
@@ -2013,7 +2156,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "683",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇳🇺"
   },
   {
     "countryNameEn": "New Zealand",
@@ -2027,7 +2171,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Maori",
     "officialLanguageNameLocal": "te reo Māori",
     "countryCallingCode": "64",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇳🇿"
   },
   {
     "countryNameEn": "Oman",
@@ -2041,7 +2186,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "968",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇴🇲"
   },
   {
     "countryNameEn": "Panama",
@@ -2055,7 +2201,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "507",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇵🇦"
   },
   {
     "countryNameEn": "Peru",
@@ -2069,7 +2216,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "51",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇵🇪"
   },
   {
     "countryNameEn": "French Polynesia",
@@ -2083,7 +2231,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "689",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇵🇫"
   },
   {
     "countryNameEn": "Papua New Guinea",
@@ -2097,7 +2246,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "675",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇵🇬"
   },
   {
     "countryNameEn": "Pakistan",
@@ -2111,7 +2261,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "92",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇵🇰"
   },
   {
     "countryNameEn": "Poland",
@@ -2125,7 +2276,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Polish",
     "officialLanguageNameLocal": "język polski, polszczyzna",
     "countryCallingCode": "48",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇵🇱"
   },
   {
     "countryNameEn": "Saint Pierre and Miquelon",
@@ -2139,7 +2291,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "508",
-    "region": "North America"
+    "region": "North America",
+    "flag": "🇵🇲"
   },
   {
     "countryNameEn": "Pitcairn",
@@ -2153,7 +2306,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇵🇳"
   },
   {
     "countryNameEn": "Puerto Rico",
@@ -2167,7 +2321,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "1",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇵🇷"
   },
   {
     "countryNameEn": "Palestine, State of",
@@ -2181,7 +2336,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "970",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇵🇸"
   },
   {
     "countryNameEn": "Portugal",
@@ -2195,7 +2351,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
     "countryCallingCode": "351",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇵🇹"
   },
   {
     "countryNameEn": "Palau",
@@ -2209,7 +2366,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "680",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇵🇼"
   },
   {
     "countryNameEn": "Paraguay",
@@ -2223,7 +2381,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "595",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇵🇾"
   },
   {
     "countryNameEn": "Qatar",
@@ -2237,7 +2396,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "974",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇶🇦"
   },
   {
     "countryNameEn": "Réunion",
@@ -2251,7 +2411,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "262",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇷🇪"
   },
   {
     "countryNameEn": "Romania",
@@ -2265,7 +2426,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Romanian, Moldavian, Moldovan",
     "officialLanguageNameLocal": "Română",
     "countryCallingCode": "40",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇷🇴"
   },
   {
     "countryNameEn": "Serbia",
@@ -2279,7 +2441,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Serbian",
     "officialLanguageNameLocal": "српски језик",
     "countryCallingCode": "381",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇷🇸"
   },
   {
     "countryNameEn": "Russia",
@@ -2293,7 +2456,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Russian",
     "officialLanguageNameLocal": "русский",
     "countryCallingCode": "7",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇷🇺"
   },
   {
     "countryNameEn": "Rwanda",
@@ -2307,7 +2471,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Kinyarwanda",
     "officialLanguageNameLocal": "Ikinyarwanda",
     "countryCallingCode": "250",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇷🇼"
   },
   {
     "countryNameEn": "Saudi Arabia",
@@ -2321,7 +2486,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "966",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇸🇦"
   },
   {
     "countryNameEn": "Solomon Islands",
@@ -2335,7 +2501,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "677",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇸🇧"
   },
   {
     "countryNameEn": "Seychelles",
@@ -2349,7 +2516,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "248",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇸🇨"
   },
   {
     "countryNameEn": "Sweden",
@@ -2363,7 +2531,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Swedish",
     "officialLanguageNameLocal": "Svenska",
     "countryCallingCode": "46",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇸🇪"
   },
   {
     "countryNameEn": "Singapore",
@@ -2377,7 +2546,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "65",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇸🇬"
   },
   {
     "countryNameEn": "Saint Helena, Ascension and Tristan da Cunha",
@@ -2391,7 +2561,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇸🇭"
   },
   {
     "countryNameEn": "Slovenia",
@@ -2405,7 +2576,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Slovenian",
     "officialLanguageNameLocal": "Slovenski Jezik, Slovenščina",
     "countryCallingCode": "386",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇸🇮"
   },
   {
     "countryNameEn": "Svalbard and Jan Mayen",
@@ -2419,7 +2591,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Norwegian",
     "officialLanguageNameLocal": "Norsk",
     "countryCallingCode": "",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇸🇯"
   },
   {
     "countryNameEn": "Slovakia",
@@ -2433,7 +2606,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Slovak",
     "officialLanguageNameLocal": "Slovenčina, Slovenský Jazyk",
     "countryCallingCode": "421",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇸🇰"
   },
   {
     "countryNameEn": "Sierra Leone",
@@ -2447,7 +2621,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "232",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇸🇱"
   },
   {
     "countryNameEn": "San Marino",
@@ -2461,7 +2636,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Italian",
     "officialLanguageNameLocal": "Italiano",
     "countryCallingCode": "378",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇸🇲"
   },
   {
     "countryNameEn": "Senegal",
@@ -2475,7 +2651,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "221",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇸🇳"
   },
   {
     "countryNameEn": "Somalia",
@@ -2489,7 +2666,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Somali",
     "officialLanguageNameLocal": "Soomaaliga, af Soomaali",
     "countryCallingCode": "252",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇸🇴"
   },
   {
     "countryNameEn": "Suriname",
@@ -2503,7 +2681,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
     "countryCallingCode": "597",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇸🇷"
   },
   {
     "countryNameEn": "South Sudan",
@@ -2517,7 +2696,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "211",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇸🇸"
   },
   {
     "countryNameEn": "Sao Tome and Principe",
@@ -2531,7 +2711,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
     "countryCallingCode": "",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇸🇹"
   },
   {
     "countryNameEn": "El Salvador",
@@ -2545,7 +2726,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "503",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇸🇻"
   },
   {
     "countryNameEn": "Sint Maarten (Dutch part)",
@@ -2559,7 +2741,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
     "countryCallingCode": "",
-    "region": "Unknown"
+    "region": "Unknown",
+    "flag": "🇸🇽"
   },
   {
     "countryNameEn": "Syrian Arab Republic",
@@ -2573,7 +2756,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇸🇾"
   },
   {
     "countryNameEn": "Chad",
@@ -2587,7 +2771,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "235",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇹🇩"
   },
   {
     "countryNameEn": "Togo",
@@ -2601,7 +2786,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "228",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇹🇬"
   },
   {
     "countryNameEn": "Thailand",
@@ -2615,7 +2801,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Thai",
     "officialLanguageNameLocal": "ไทย",
     "countryCallingCode": "66",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇹🇭"
   },
   {
     "countryNameEn": "Tajikistan",
@@ -2629,7 +2816,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Tajik",
     "officialLanguageNameLocal": "тоҷикӣ, toçikī, تاجیکی‎",
     "countryCallingCode": "992",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇹🇯"
   },
   {
     "countryNameEn": "Tokelau",
@@ -2643,7 +2831,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "690",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇹🇰"
   },
   {
     "countryNameEn": "Timor-Leste",
@@ -2657,7 +2846,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
     "countryCallingCode": "",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇹🇱"
   },
   {
     "countryNameEn": "Turkmenistan",
@@ -2671,7 +2861,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Turkmen",
     "officialLanguageNameLocal": "Türkmen, Түркмен",
     "countryCallingCode": "993",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇹🇲"
   },
   {
     "countryNameEn": "Tunisia",
@@ -2685,7 +2876,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "216",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇹🇳"
   },
   {
     "countryNameEn": "Tonga",
@@ -2699,7 +2891,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "676",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇹🇴"
   },
   {
     "countryNameEn": "Turkey",
@@ -2713,7 +2906,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Turkish",
     "officialLanguageNameLocal": "Türkçe",
     "countryCallingCode": "90",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇹🇷"
   },
   {
     "countryNameEn": "Trinidad and Tobago",
@@ -2727,7 +2921,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇹🇹"
   },
   {
     "countryNameEn": "Tuvalu",
@@ -2741,7 +2936,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "688",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇹🇻"
   },
   {
     "countryNameEn": "United Republic of Tanzania",
@@ -2755,7 +2951,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Swahili",
     "officialLanguageNameLocal": "Kiswahili",
     "countryCallingCode": "",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇹🇿"
   },
   {
     "countryNameEn": "Ukraine",
@@ -2769,7 +2966,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Ukrainian",
     "officialLanguageNameLocal": "Українська",
     "countryCallingCode": "380",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇺🇦"
   },
   {
     "countryNameEn": "Uganda",
@@ -2783,7 +2981,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "256",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇺🇬"
   },
   {
     "countryNameEn": "United States of America",
@@ -2797,7 +2996,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
-    "region": "North America"
+    "region": "North America",
+    "flag": "🇺🇸"
   },
   {
     "countryNameEn": "Uruguay",
@@ -2811,7 +3011,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "598",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇺🇾"
   },
   {
     "countryNameEn": "Uzbekistan",
@@ -2825,7 +3026,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Uzbek",
     "officialLanguageNameLocal": "Oʻzbek, Ўзбек, أۇزبېك‎",
     "countryCallingCode": "998",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇺🇿"
   },
   {
     "countryNameEn": "Saint Vincent and the Grenadines",
@@ -2839,7 +3041,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇻🇨"
   },
   {
     "countryNameEn": "Venezuela (Bolivarian Republic of)",
@@ -2853,7 +3056,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "58",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇻🇪"
   },
   {
     "countryNameEn": "Virgin Islands (British)",
@@ -2867,7 +3071,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇻🇬"
   },
   {
     "countryNameEn": "Virgin Islands (U.S.)",
@@ -2881,7 +3086,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇻🇮"
   },
   {
     "countryNameEn": "Vietnam",
@@ -2895,7 +3101,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Vietnamese",
     "officialLanguageNameLocal": "Tiếng Việt",
     "countryCallingCode": "",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇻🇳"
   },
   {
     "countryNameEn": "Vanuatu",
@@ -2909,7 +3116,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Bislama",
     "officialLanguageNameLocal": "Bislama",
     "countryCallingCode": "678",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇻🇺"
   },
   {
     "countryNameEn": "Wallis and Futuna",
@@ -2923,7 +3131,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "681",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇼🇫"
   },
   {
     "countryNameEn": "Samoa",
@@ -2937,7 +3146,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Samoan",
     "officialLanguageNameLocal": "gagana fa'a Samoa",
     "countryCallingCode": "685",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇼🇸"
   },
   {
     "countryNameEn": "Yemen",
@@ -2951,7 +3161,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "967",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇾🇪"
   },
   {
     "countryNameEn": "Mayotte",
@@ -2965,7 +3176,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "262",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇾🇹"
   },
   {
     "countryNameEn": "South Africa",
@@ -2979,7 +3191,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "27",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇿🇦"
   },
   {
     "countryNameEn": "Zambia",
@@ -2993,7 +3206,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "260",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇿🇲"
   },
   {
     "countryNameEn": "Zimbabwe",
@@ -3007,7 +3221,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "263",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇿🇼"
   },
   {
     "countryNameEn": "Eswatini",
@@ -3021,7 +3236,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "268",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇸🇿"
   },
   {
     "countryNameEn": "North Macedonia",
@@ -3035,7 +3251,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Macedonian",
     "officialLanguageNameLocal": "македонски јазик",
     "countryCallingCode": "389",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇲🇰"
   },
   {
     "countryNameEn": "Philippines",
@@ -3049,7 +3266,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "63",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇵🇭"
   },
   {
     "countryNameEn": "Netherlands",
@@ -3063,7 +3281,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
     "countryCallingCode": "31",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇳🇱"
   },
   {
     "countryNameEn": "United Arab Emirates",
@@ -3077,7 +3296,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "971",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇦🇪"
   },
   {
     "countryNameEn": "Republic of Moldova",
@@ -3091,7 +3311,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Romanian, Moldavian, Moldovan",
     "officialLanguageNameLocal": "Română",
     "countryCallingCode": "",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇲🇩"
   },
   {
     "countryNameEn": "Gambia",
@@ -3105,7 +3326,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "220",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇬🇲"
   },
   {
     "countryNameEn": "Dominican Republic",
@@ -3119,7 +3341,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "1",
-    "region": "South/Latin America"
+    "region": "South/Latin America",
+    "flag": "🇩🇴"
   },
   {
     "countryNameEn": "Sudan",
@@ -3133,7 +3356,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "249",
-    "region": "Arab States"
+    "region": "Arab States",
+    "flag": "🇸🇩"
   },
   {
     "countryNameEn": "Lao People's Democratic Republic",
@@ -3147,7 +3371,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Lao",
     "officialLanguageNameLocal": "ພາສາລາວ",
     "countryCallingCode": "",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇱🇦"
   },
   {
     "countryNameEn": "Taiwan, Province of China",
@@ -3161,7 +3386,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "",
-    "region": "Asia & Pacific"
+    "region": "Asia & Pacific",
+    "flag": "🇹🇼"
   },
   {
     "countryNameEn": "Republic of the Congo",
@@ -3175,7 +3401,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇨🇬"
   },
   {
     "countryNameEn": "Czechia",
@@ -3189,7 +3416,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "Czech",
     "officialLanguageNameLocal": "Čeština",
     "countryCallingCode": "420",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇨🇿"
   },
   {
     "countryNameEn": "Great Britain",
@@ -3203,7 +3431,8 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "44",
-    "region": "Europe"
+    "region": "Europe",
+    "flag": "🇬🇧"
   },
   {
     "countryNameEn": "Niger",
@@ -3217,6 +3446,7 @@ module.exports = module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "227",
-    "region": "Africa"
+    "region": "Africa",
+    "flag": "🇳🇪"
   }
 ]
