@@ -36,7 +36,7 @@ module.exports = {
    * Returns a collection with fields mapped as requested
    * @param {*} fields - Map of fields and placeholders 
    */
-  customArray: function (fields = { name: '{countryNameEn} ({countryCode})', value: '{countryCode}'}, { sortBy = 'name', filter } = {}) {
+  customArray: function (fields = { name: '{countryNameEn} ({countryCode})', value: '{countryCode}'}, { sortBy = 'name', sortDataBy, filter } = {}) {
     const finalCollection = []
 
     let data = countriesData
@@ -44,10 +44,10 @@ module.exports = {
       data = data.filter(filter)
     }
 
-    if (sortBy && fields[sortBy]) {
+    if (sortDataBy && fields[sortDataBy]) {
       // ignore upper and lowercase
       const collator = new Intl.Collator([], {sensitivity:'accent'})
-      data.sort((a, b) => collator.compare(a[sortBy], b[sortBy]))
+      data.sort((a, b) => collator.compare(a[sortDataBy], b[sortDataBy]))
     }
 
     data.forEach(countryData => {
@@ -57,6 +57,12 @@ module.exports = {
       }
       finalCollection.push(collectionObject)
     })
+
+    if (sortBy && fields[sortBy]) {
+      // ignore upper and lowercase
+      const collator = new Intl.Collator([], {sensitivity:'accent'})
+      finalCollection.sort((a, b) => collator.compare(a[sortBy], b[sortBy]))
+    }
 
     return finalCollection
   },
