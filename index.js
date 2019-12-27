@@ -36,7 +36,7 @@ module.exports = {
    * Returns a collection with fields mapped as requested
    * @param {*} fields - Map of fields and placeholders 
    */
-  customArray: function (fields = { name: '{countryNameEn} ({countryCode})', value: '{countryCode}'}, { sortBy = 'name', sortDataBy, filter } = {}) {
+  customArray: function (fields = { name: '{countryNameEn} ({countryCode})', value: '{countryCode}'}, { sortBy, sortDataBy, filter } = {}) {
     const finalCollection = []
 
     let data = countriesData
