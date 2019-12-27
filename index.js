@@ -44,6 +44,12 @@ module.exports = {
       data = data.filter(filter)
     }
 
+    if (sortBy && fields[sortBy]) {
+      // ignore upper and lowercase
+      const collator = new Intl.Collator([], {sensitivity:'accent'})
+      data.sort((a, b) => collator.compare(a[sortBy], b[sortBy]))
+    }
+
     data.forEach(countryData => {
       let collectionObject = {}
       for (const field in fields) {
@@ -51,12 +57,6 @@ module.exports = {
       }
       finalCollection.push(collectionObject)
     })
-
-    if (sortBy && fields[sortBy]) {
-      // ignore upper and lowercase
-      const collator = new Intl.Collator([], {sensitivity:'accent'})
-      finalCollection.sort((a, b) => collator.compare(a[sortBy], b[sortBy]))
-    }
 
     return finalCollection
   },
