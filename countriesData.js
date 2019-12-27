@@ -1,4 +1,4 @@
-module.exports = module.exports = [
+module.exports = [
   {
     "countryNameEn": "Andorra",
     "countryNameLocal": "Andorra",

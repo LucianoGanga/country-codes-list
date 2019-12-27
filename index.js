@@ -44,9 +44,9 @@ module.exports = {
       data = data.filter(filter)
     }
 
-    if (sortDataBy && fields[sortDataBy]) {
+    if (sortDataBy) {
       // ignore upper and lowercase
-      const collator = new Intl.Collator([], {sensitivity:'accent'})
+      const collator = new Intl.Collator([], { sensitivity:'accent' })
       data.sort((a, b) => collator.compare(a[sortDataBy], b[sortDataBy]))
     }
 
