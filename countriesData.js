@@ -3048,7 +3048,7 @@ module.exports = [
     "countryNameEn": "Venezuela (Bolivarian Republic of)",
     "countryNameLocal": "Venezuela",
     "countryCode": "VE",
-    "currencyCode": "VEF",
+    "currencyCode": "VES",
     "currencyNameEn": "",
     "tinType": "RIF",
     "tinName": "Registro de Informacion Fiscal",
