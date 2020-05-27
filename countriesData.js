@@ -1530,6 +1530,36 @@ module.exports = [
     "flag": "🇰🇭"
   },
   {
+    "countryNameEn": "North Korea",
+    "countryNameLocal": "조선민주주의인민공화국",
+    "countryCode": "KP",
+    "currencyCode": "KPW",
+    "currencyNameEn": "North Korean won",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "ko",
+    "officialLanguageNameEn": "Korean",
+    "officialLanguageNameLocal": "조선어",
+    "countryCallingCode": "850",
+    "region": "Asia",
+    "flag": "🇰🇵"
+  },
+  {
+    "countryNameEn": "South Korea",
+    "countryNameLocal": "대한민국",
+    "countryCode": "KR",
+    "currencyCode": "KRW",
+    "currencyNameEn": "South Korean won",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "ko",
+    "officialLanguageNameEn": "Korean",
+    "officialLanguageNameLocal": "한국어",
+    "countryCallingCode": "82",
+    "region": "Asia",
+    "flag": "🇰🇷"
+  },
+  {
     "countryNameEn": "Kiribati",
     "countryNameLocal": "Kiribati",
     "countryCode": "KI",
