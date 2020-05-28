@@ -3450,8 +3450,8 @@ module.exports = [
     "flag": "🇨🇿"
   },
   {
-    "countryNameEn": "Great Britain",
-    "countryNameLocal": "United Kingdom",
+    "countryNameEn": "United Kingdom",
+    "countryNameLocal": "Great Britain",
     "countryCode": "GB",
     "currencyCode": "GBP",
     "currencyNameEn": "Pound sterling",
