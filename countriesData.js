@@ -3370,7 +3370,7 @@ module.exports = [
     "officialLanguageCode": "es",
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
-    "countryCallingCode": "809",
+    "countryCallingCode": "1",
     "region": "South/Latin America",
     "flag": "🇩🇴"
   },
