@@ -115,7 +115,7 @@ module.exports = [
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
-    "countryCallingCode": "",
+    "countryCallingCode": "672",
     "region": "Asia & Pacific",
     "flag": "🇦🇶"
   },
@@ -475,7 +475,7 @@ module.exports = [
     "officialLanguageCode": "no",
     "officialLanguageNameEn": "Norwegian",
     "officialLanguageNameLocal": "Norsk",
-    "countryCallingCode": "",
+    "countryCallingCode": "47",
     "region": "South/Latin America",
     "flag": "🇧🇻"
   },
@@ -565,7 +565,7 @@ module.exports = [
     "officialLanguageCode": "fr",
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
-    "countryCallingCode": "",
+    "countryCallingCode": "225",
     "region": "Africa",
     "flag": "🇨🇮"
   },
@@ -670,7 +670,7 @@ module.exports = [
     "officialLanguageCode": "pt",
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
-    "countryCallingCode": "",
+    "countryCallingCode": "238",
     "region": "Africa",
     "flag": "🇨🇻"
   },
@@ -850,7 +850,7 @@ module.exports = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "",
+    "countryCallingCode": "212",
     "region": "Africa",
     "flag": "🇪🇭"
   },
@@ -1900,7 +1900,7 @@ module.exports = [
     "officialLanguageCode": "zh-hant",
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
-    "countryCallingCode": "",
+    "countryCallingCode": "853",
     "region": "Asia & Pacific",
     "flag": "🇲🇴"
   },
@@ -2785,7 +2785,7 @@ module.exports = [
     "officialLanguageCode": "ar",
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
-    "countryCallingCode": "",
+    "countryCallingCode": "963",
     "region": "Asia & Pacific",
     "flag": "🇸🇾"
   },
@@ -2875,7 +2875,7 @@ module.exports = [
     "officialLanguageCode": "pt",
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
-    "countryCallingCode": "",
+    "countryCallingCode": "670",
     "region": "Asia & Pacific",
     "flag": "🇹🇱"
   },
@@ -3400,7 +3400,7 @@ module.exports = [
     "officialLanguageCode": "lo",
     "officialLanguageNameEn": "Lao",
     "officialLanguageNameLocal": "ພາສາລາວ",
-    "countryCallingCode": "",
+    "countryCallingCode": "856",
     "region": "Asia & Pacific",
     "flag": "🇱🇦"
   },
