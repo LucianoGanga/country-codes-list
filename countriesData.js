@@ -3658,5 +3658,20 @@ module.exports = [
     "countryCallingCode": "692",
     "region": "Pacific Ocean",
     "flag": "MH",
+  },
+  {
+    "countryNameEn": "Commonwealth of the Northern Mariana Islands",
+    "countryNameLocal": "Sankattan Siha Na Islas Mariånas",
+    "countryCode": "MP",
+    "currencyCode": "USD",
+    "currencyNameEn": "United States dollar",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "en",
+    "officialLanguageNameEn": "English",
+    "officialLanguageNameLocal": "English",
+    "countryCallingCode": "1 670",
+    "region": "Pacific Ocean",
+    "flag": "MP",
   }
 ]
