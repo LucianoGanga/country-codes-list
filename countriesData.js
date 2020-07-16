@@ -3493,5 +3493,20 @@ module.exports = [
     "countryCallingCode": "243",
     "region": "Africa",
     "flag": "CD",
+  },
+  {
+    "countryNameEn": "Commonwealth of The Bahamas",
+    "countryNameLocal": "Commonwealth of The Bahamas",
+    "countryCode": "BS",
+    "currencyCode": "BSD",
+    "currencyNameEn": "Bahamian dollar",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "en",
+    "officialLanguageNameEn": "English",
+    "officialLanguageNameLocal": "English",
+    "countryCallingCode": "1 242",
+    "region": "Caribbean",
+    "flag": "BS",
   }
 ]
