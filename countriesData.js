@@ -3583,5 +3583,20 @@ module.exports = [
     "countryCallingCode": "298",
     "region": "Europe",
     "flag": "FO",
+  },
+  {
+    "countryNameEn": "Territory of Heard Island and McDonald Islands",
+    "countryNameLocal": "Territory of Heard Island and McDonald Islands",
+    "countryCode": "HM",
+    "currencyCode": "AUD",
+    "currencyNameEn": "Australian dollar",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "en",
+    "officialLanguageNameEn": "English",
+    "officialLanguageNameLocal": "English",
+    "countryCallingCode": "672",
+    "region": "Indian Ocean",
+    "flag": "HM",
   }
 ]
