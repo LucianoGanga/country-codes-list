@@ -3688,5 +3688,20 @@ module.exports = [
     "countryCallingCode": "1 649",
     "region": "Atlantic Ocean",
     "flag": "TC",
+  },
+  {
+    "countryNameEn": "French Southern and Antarctic Lands",
+    "countryNameLocal": "Terres australes et antarctiques françaises",
+    "countryCode": "TF",
+    "currencyCode": "EUR",
+    "currencyNameEn": "Euro",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "fr",
+    "officialLanguageNameEn": "French",
+    "officialLanguageNameLocal": "Français",
+    "countryCallingCode": "672",
+    "region": "Indian Ocean",
+    "flag": "TF",
   }
 ]
