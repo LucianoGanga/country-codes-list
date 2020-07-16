@@ -3478,5 +3478,20 @@ module.exports = [
     "countryCallingCode": "227",
     "region": "Africa",
     "flag": "🇳🇪"
+  },
+  {
+    "countryNameEn": "Democratic Republic of the Congo",
+    "countryNameLocal": "Democratic Republic of the Congo",
+    "countryCode": "CD",
+    "currencyCode": "CDF",
+    "currencyNameEn": "Congolese franc",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "fr",
+    "officialLanguageNameEn": "French",
+    "officialLanguageNameLocal": "Français",
+    "countryCallingCode": "243",
+    "region": "Africa",
+    "flag": "CD",
   }
 ]
