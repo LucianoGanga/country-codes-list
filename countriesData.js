@@ -3553,5 +3553,20 @@ module.exports = [
     "countryCallingCode": "682",
     "region": "South Pacific Ocean",
     "flag": "CK",
+  },
+  {
+    "countryNameEn": "Falkland Islands",
+    "countryNameLocal": "Falkland Islands",
+    "countryCode": "FK",
+    "currencyCode": "FKP",
+    "currencyNameEn": "Falklands pound",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "en",
+    "officialLanguageNameEn": "English",
+    "officialLanguageNameLocal": "English",
+    "countryCallingCode": "500",
+    "region": "South Atlantic Ocean",
+    "flag": "FK",
   }
 ]
