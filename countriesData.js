@@ -3508,5 +3508,20 @@ module.exports = [
     "countryCallingCode": "1 242",
     "region": "Caribbean",
     "flag": "BS",
+  },
+  {
+    "countryNameEn": "Cocos (Keeling) Islands",
+    "countryNameLocal": "Pulu Kokos (Keeling)",
+    "countryCode": "CC",
+    "currencyCode": "AUD",
+    "currencyNameEn": "Australian dollar",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "en",
+    "officialLanguageNameEn": "English",
+    "officialLanguageNameLocal": "English",
+    "countryCallingCode": "61 891",
+    "region": "Australia",
+    "flag": "CC",
   }
 ]
