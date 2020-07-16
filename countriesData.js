@@ -3613,5 +3613,20 @@ module.exports = [
     "countryCallingCode": "246",
     "region": "Indian Ocean",
     "flag": "IO",
+  },
+  {
+    "countryNameEn": "Comoros",
+    "countryNameLocal": "Umoja wa Komori",
+    "countryCode": "KM",
+    "currencyCode": "KMF",
+    "currencyNameEn": "Comorian franc",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "fr",
+    "officialLanguageNameEn": "French",
+    "officialLanguageNameLocal": "Français",
+    "countryCallingCode": "269",
+    "region": "Indian Ocean",
+    "flag": "KM",
   }
 ]
