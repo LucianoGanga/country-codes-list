@@ -3718,5 +3718,20 @@ module.exports = [
     "countryCallingCode": "246",
     "region": "Pacific Ocean",
     "flag": "UM",
+  },
+  {
+    "countryNameEn": "Holy See",
+    "countryNameLocal": "Sancta Sedes",
+    "countryCode": "VA",
+    "currencyCode": "EUR",
+    "currencyNameEn": "Euro",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "la",
+    "officialLanguageNameEn": "Latin",
+    "officialLanguageNameLocal": "lingua latīna",
+    "countryCallingCode": "39",
+    "region": "Europe",
+    "flag": "VA",
   }
 ]
