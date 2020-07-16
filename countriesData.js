@@ -3628,5 +3628,20 @@ module.exports = [
     "countryCallingCode": "269",
     "region": "Indian Ocean",
     "flag": "KM",
+  },
+  {
+    "countryNameEn": "Cayman Islands",
+    "countryNameLocal": "Cayman Islands",
+    "countryCode": "KY",
+    "currencyCode": "KYD",
+    "currencyNameEn": "Cayman Islands dollar",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "en",
+    "officialLanguageNameEn": "English",
+    "officialLanguageNameLocal": "English",
+    "countryCallingCode": "1 345",
+    "region": "Caribbean Sea",
+    "flag": "KY",
   }
 ]
