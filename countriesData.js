@@ -3523,5 +3523,20 @@ module.exports = [
     "countryCallingCode": "61 891",
     "region": "Australia",
     "flag": "CC",
+  },
+  {
+    "countryNameEn": "Central African Republic",
+    "countryNameLocal": "République centrafricaine",
+    "countryCode": "CF",
+    "currencyCode": "XAF",
+    "currencyNameEn": "Central African CFA",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "fr",
+    "officialLanguageNameEn": "French",
+    "officialLanguageNameLocal": "Français",
+    "countryCallingCode": "236",
+    "region": "Africa",
+    "flag": "CF",
   }
 ]
