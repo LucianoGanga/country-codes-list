@@ -3643,5 +3643,20 @@ module.exports = [
     "countryCallingCode": "1 345",
     "region": "Caribbean Sea",
     "flag": "KY",
+  },
+  {
+    "countryNameEn": "Republic of the Marshall Islands",
+    "countryNameLocal": "Aolepān Aorōkin Ṃajeḷ",
+    "countryCode": "MH",
+    "currencyCode": "USD",
+    "currencyNameEn": "United States dollar",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "en",
+    "officialLanguageNameEn": "English",
+    "officialLanguageNameLocal": "English",
+    "countryCallingCode": "692",
+    "region": "Pacific Ocean",
+    "flag": "MH",
   }
 ]
