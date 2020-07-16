@@ -3703,5 +3703,20 @@ module.exports = [
     "countryCallingCode": "672",
     "region": "Indian Ocean",
     "flag": "TF",
+  },
+  {
+    "countryNameEn": "United States Minor Outlying Islands",
+    "countryNameLocal": "United States Minor Outlying Islands",
+    "countryCode": "UM",
+    "currencyCode": "USD",
+    "currencyNameEn": "United States dollar",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "en",
+    "officialLanguageNameEn": "English",
+    "officialLanguageNameLocal": "English",
+    "countryCallingCode": "246",
+    "region": "Pacific Ocean",
+    "flag": "UM",
   }
 ]
