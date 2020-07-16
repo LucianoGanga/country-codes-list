@@ -3568,5 +3568,20 @@ module.exports = [
     "countryCallingCode": "500",
     "region": "South Atlantic Ocean",
     "flag": "FK",
+  },
+  {
+    "countryNameEn": "Faroe Islands",
+    "countryNameLocal": "Færøerne",
+    "countryCode": "FO",
+    "currencyCode": "DKK",
+    "currencyNameEn": "Faroese króna",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "da",
+    "officialLanguageNameEn": "Danish",
+    "officialLanguageNameLocal": "dansk",
+    "countryCallingCode": "298",
+    "region": "Europe",
+    "flag": "FO",
   }
 ]
