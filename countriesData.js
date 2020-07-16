@@ -3598,5 +3598,20 @@ module.exports = [
     "countryCallingCode": "672",
     "region": "Indian Ocean",
     "flag": "HM",
+  },
+  {
+    "countryNameEn": "British Indian Ocean Territory",
+    "countryNameLocal": "British Indian Ocean Territory",
+    "countryCode": "IO",
+    "currencyCode": "USD",
+    "currencyNameEn": "United States Dollar",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "en",
+    "officialLanguageNameEn": "English",
+    "officialLanguageNameLocal": "English",
+    "countryCallingCode": "246",
+    "region": "Indian Ocean",
+    "flag": "IO",
   }
 ]
