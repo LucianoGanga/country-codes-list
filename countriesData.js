@@ -3538,5 +3538,20 @@ module.exports = [
     "countryCallingCode": "236",
     "region": "Africa",
     "flag": "CF",
+  },
+  {
+    "countryNameEn": "Cook Islands",
+    "countryNameLocal": "Kūki 'Āirani",
+    "countryCode": "CK",
+    "currencyCode": "NZD",
+    "currencyNameEn": "New Zealand dollar",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "en",
+    "officialLanguageNameEn": "English",
+    "officialLanguageNameLocal": "English",
+    "countryCallingCode": "682",
+    "region": "South Pacific Ocean",
+    "flag": "CK",
   }
 ]
