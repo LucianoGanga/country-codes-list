@@ -3673,5 +3673,20 @@ module.exports = [
     "countryCallingCode": "1 670",
     "region": "Pacific Ocean",
     "flag": "MP",
+  },
+  {
+    "countryNameEn": "Turks and Caicos Islands",
+    "countryNameLocal": "Turks and Caicos Islands",
+    "countryCode": "TC",
+    "currencyCode": "USD",
+    "currencyNameEn": "United States dollar",
+    "tinType": "",
+    "tinName": "",
+    "officialLanguageCode": "en",
+    "officialLanguageNameEn": "English",
+    "officialLanguageNameLocal": "English",
+    "countryCallingCode": "1 649",
+    "region": "Atlantic Ocean",
+    "flag": "TC",
   }
 ]
