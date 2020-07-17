@@ -3492,7 +3492,7 @@ module.exports = [
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "243",
     "region": "Africa",
-    "flag": "CD",
+    "flag": "🇨🇩",
   },
   {
     "countryNameEn": "Commonwealth of The Bahamas",
@@ -3507,7 +3507,7 @@ module.exports = [
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1 242",
     "region": "Caribbean",
-    "flag": "BS",
+    "flag": "🇧🇸",
   },
   {
     "countryNameEn": "Cocos (Keeling) Islands",
@@ -3522,7 +3522,7 @@ module.exports = [
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "61 891",
     "region": "Australia",
-    "flag": "CC",
+    "flag": "🇨🇨",
   },
   {
     "countryNameEn": "Central African Republic",
@@ -3537,7 +3537,7 @@ module.exports = [
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "236",
     "region": "Africa",
-    "flag": "CF",
+    "flag": "🇨🇫",
   },
   {
     "countryNameEn": "Cook Islands",
@@ -3552,7 +3552,7 @@ module.exports = [
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "682",
     "region": "South Pacific Ocean",
-    "flag": "CK",
+    "flag": "🇨🇰",
   },
   {
     "countryNameEn": "Falkland Islands",
@@ -3567,7 +3567,7 @@ module.exports = [
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "500",
     "region": "South Atlantic Ocean",
-    "flag": "FK",
+    "flag": "🇫🇰",
   },
   {
     "countryNameEn": "Faroe Islands",
@@ -3582,7 +3582,7 @@ module.exports = [
     "officialLanguageNameLocal": "dansk",
     "countryCallingCode": "298",
     "region": "Europe",
-    "flag": "FO",
+    "flag": "🇫🇴",
   },
   {
     "countryNameEn": "Territory of Heard Island and McDonald Islands",
@@ -3597,7 +3597,7 @@ module.exports = [
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "672",
     "region": "Indian Ocean",
-    "flag": "HM",
+    "flag": "🇭🇲",
   },
   {
     "countryNameEn": "British Indian Ocean Territory",
@@ -3612,7 +3612,7 @@ module.exports = [
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "246",
     "region": "Indian Ocean",
-    "flag": "IO",
+    "flag": "🇮🇴",
   },
   {
     "countryNameEn": "Comoros",
@@ -3627,7 +3627,7 @@ module.exports = [
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "269",
     "region": "Indian Ocean",
-    "flag": "KM",
+    "flag": "🇰🇲",
   },
   {
     "countryNameEn": "Cayman Islands",
@@ -3642,7 +3642,7 @@ module.exports = [
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1 345",
     "region": "Caribbean Sea",
-    "flag": "KY",
+    "flag": "🇰🇾",
   },
   {
     "countryNameEn": "Republic of the Marshall Islands",
@@ -3657,7 +3657,7 @@ module.exports = [
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "692",
     "region": "Pacific Ocean",
-    "flag": "MH",
+    "flag": "🇲🇭",
   },
   {
     "countryNameEn": "Commonwealth of the Northern Mariana Islands",
@@ -3672,7 +3672,7 @@ module.exports = [
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1 670",
     "region": "Pacific Ocean",
-    "flag": "MP",
+    "flag": "🇲🇵",
   },
   {
     "countryNameEn": "Turks and Caicos Islands",
@@ -3687,7 +3687,7 @@ module.exports = [
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1 649",
     "region": "Atlantic Ocean",
-    "flag": "TC",
+    "flag": "🇹🇨",
   },
   {
     "countryNameEn": "French Southern and Antarctic Lands",
@@ -3702,7 +3702,7 @@ module.exports = [
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "672",
     "region": "Indian Ocean",
-    "flag": "TF",
+    "flag": "🇹🇫",
   },
   {
     "countryNameEn": "United States Minor Outlying Islands",
@@ -3717,7 +3717,7 @@ module.exports = [
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "246",
     "region": "Pacific Ocean",
-    "flag": "UM",
+    "flag": "🇺🇲",
   },
   {
     "countryNameEn": "Holy See",
@@ -3732,6 +3732,6 @@ module.exports = [
     "officialLanguageNameLocal": "lingua latīna",
     "countryCallingCode": "39",
     "region": "Europe",
-    "flag": "VA",
+    "flag": "🇻🇦",
   }
 ]
