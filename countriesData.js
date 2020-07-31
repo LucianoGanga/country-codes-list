@@ -3020,7 +3020,7 @@ module.exports = [
     "countryCode": "US",
     "currencyCode": "USD",
     "currencyNameEn": "United States dollar",
-    "tinType": "TIN",
+    "tinType": "EIN",
     "tinName": "Tax Identification Number",
     "officialLanguageCode": "en",
     "officialLanguageNameEn": "English",
