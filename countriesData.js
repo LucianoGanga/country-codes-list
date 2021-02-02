@@ -11,6 +11,7 @@ module.exports = [
     "officialLanguageNameEn": "Catalan, Valencian",
     "officialLanguageNameLocal": "Català, Valencià",
     "countryCallingCode": "376",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇦🇩"
   },
@@ -26,6 +27,7 @@ module.exports = [
     "officialLanguageNameEn": "Persian",
     "officialLanguageNameLocal": "فارسی",
     "countryCallingCode": "93",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇦🇫"
   },
@@ -41,6 +43,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1268",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇦🇬"
   },
@@ -56,6 +59,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1264",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇦🇮"
   },
@@ -71,6 +75,7 @@ module.exports = [
     "officialLanguageNameEn": "Albanian",
     "officialLanguageNameLocal": "Shqip",
     "countryCallingCode": "355",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇦🇱"
   },
@@ -86,6 +91,7 @@ module.exports = [
     "officialLanguageNameEn": "Armenian",
     "officialLanguageNameLocal": "Հայերեն",
     "countryCallingCode": "374",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇦🇲"
   },
@@ -101,6 +107,7 @@ module.exports = [
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
     "countryCallingCode": "244",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇦🇴"
   },
@@ -116,6 +123,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "672",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇦🇶"
   },
@@ -131,6 +139,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "54",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇦🇷"
   },
@@ -146,6 +155,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1684",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇦🇸"
   },
@@ -161,6 +171,7 @@ module.exports = [
     "officialLanguageNameEn": "German",
     "officialLanguageNameLocal": "Deutsch",
     "countryCallingCode": "43",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇦🇹"
   },
@@ -176,6 +187,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "61",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇦🇺"
   },
@@ -191,6 +203,7 @@ module.exports = [
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
     "countryCallingCode": "297",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇦🇼"
   },
@@ -206,6 +219,7 @@ module.exports = [
     "officialLanguageNameEn": "Swedish",
     "officialLanguageNameLocal": "Svenska",
     "countryCallingCode": "358",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇦🇽"
   },
@@ -221,6 +235,7 @@ module.exports = [
     "officialLanguageNameEn": "Azerbaijani",
     "officialLanguageNameLocal": "azərbaycan dili",
     "countryCallingCode": "994",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇦🇿"
   },
@@ -236,6 +251,7 @@ module.exports = [
     "officialLanguageNameEn": "Bosnian",
     "officialLanguageNameLocal": "bosanski jezik",
     "countryCallingCode": "387",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇧🇦"
   },
@@ -251,6 +267,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1246",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇧🇧"
   },
@@ -266,6 +283,7 @@ module.exports = [
     "officialLanguageNameEn": "Bengali",
     "officialLanguageNameLocal": "বাংলা",
     "countryCallingCode": "880",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇧🇩"
   },
@@ -281,6 +299,7 @@ module.exports = [
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
     "countryCallingCode": "32",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇧🇪"
   },
@@ -296,6 +315,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "226",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇧🇫"
   },
@@ -311,6 +331,7 @@ module.exports = [
     "officialLanguageNameEn": "Bulgarian",
     "officialLanguageNameLocal": "български език",
     "countryCallingCode": "359",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇧🇬"
   },
@@ -326,6 +347,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "973",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇧🇭"
   },
@@ -341,6 +363,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "257",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇧🇮"
   },
@@ -356,6 +379,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "229",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇧🇯"
   },
@@ -371,6 +395,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "590",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇧🇱"
   },
@@ -386,6 +411,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1441",
+    "areaCodes": [],
     "region": "North America",
     "flag": "🇧🇲"
   },
@@ -401,6 +427,7 @@ module.exports = [
     "officialLanguageNameEn": "Malay",
     "officialLanguageNameLocal": "Bahasa Melayu, بهاس ملايو‎",
     "countryCallingCode": "673",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇧🇳"
   },
@@ -416,6 +443,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "591",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇧🇴"
   },
@@ -431,6 +459,7 @@ module.exports = [
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
     "countryCallingCode": "5997",
+    "areaCodes": [],
     "region": "Unknown",
     "flag": "🇧🇶"
   },
@@ -446,6 +475,7 @@ module.exports = [
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
     "countryCallingCode": "55",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇧🇷"
   },
@@ -461,6 +491,7 @@ module.exports = [
     "officialLanguageNameEn": "Dzongkha",
     "officialLanguageNameLocal": "རྫོང་ཁ",
     "countryCallingCode": "975",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇧🇹"
   },
@@ -476,6 +507,7 @@ module.exports = [
     "officialLanguageNameEn": "Norwegian",
     "officialLanguageNameLocal": "Norsk",
     "countryCallingCode": "47",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇧🇻"
   },
@@ -491,6 +523,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "267",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇧🇼"
   },
@@ -506,6 +539,7 @@ module.exports = [
     "officialLanguageNameEn": "Belarusian",
     "officialLanguageNameLocal": "беларуская мова",
     "countryCallingCode": "375",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇧🇾"
   },
@@ -521,6 +555,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "501",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇧🇿"
   },
@@ -536,6 +571,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
+    "areaCodes": ["403", "587", "780", "825", "236", "250", "604", "672", "778", "204", "431", "506", "709", "782", "902", "226", "249", "289", "343", "365", "416", "437", "519", "548", "613", "647", "705", "807", "905", "367", "418", "438", "450", "514", "579", "581", "819", "873", "306", "639", "867"],
     "region": "North America",
     "flag": "🇨🇦"
   },
@@ -551,6 +587,7 @@ module.exports = [
     "officialLanguageNameEn": "German",
     "officialLanguageNameLocal": "Deutsch",
     "countryCallingCode": "41",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇨🇭"
   },
@@ -566,6 +603,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "225",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇨🇮"
   },
@@ -581,6 +619,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "56",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇨🇱"
   },
@@ -596,6 +635,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "237",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇨🇲"
   },
@@ -611,6 +651,7 @@ module.exports = [
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "86",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇨🇳"
   },
@@ -626,6 +667,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "57",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇨🇴"
   },
@@ -641,6 +683,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "506",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇨🇷"
   },
@@ -656,6 +699,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "53",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇨🇺"
   },
@@ -671,6 +715,7 @@ module.exports = [
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
     "countryCallingCode": "238",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇨🇻"
   },
@@ -686,6 +731,7 @@ module.exports = [
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
     "countryCallingCode": "599",
+    "areaCodes": [],
     "region": "Unknown",
     "flag": "🇨🇼"
   },
@@ -701,6 +747,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "61",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇨🇽"
   },
@@ -716,6 +763,7 @@ module.exports = [
     "officialLanguageNameEn": "Greek, Modern (1453-)",
     "officialLanguageNameLocal": "ελληνικά",
     "countryCallingCode": "357",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇨🇾"
   },
@@ -731,6 +779,7 @@ module.exports = [
     "officialLanguageNameEn": "German",
     "officialLanguageNameLocal": "Deutsch",
     "countryCallingCode": "49",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇩🇪"
   },
@@ -746,6 +795,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "253",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇩🇯"
   },
@@ -761,6 +811,7 @@ module.exports = [
     "officialLanguageNameEn": "Danish",
     "officialLanguageNameLocal": "dansk",
     "countryCallingCode": "45",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇩🇰"
   },
@@ -776,6 +827,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "767",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇩🇲"
   },
@@ -791,6 +843,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "213",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇩🇿"
   },
@@ -806,6 +859,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "593",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇪🇨"
   },
@@ -821,6 +875,7 @@ module.exports = [
     "officialLanguageNameEn": "Estonian",
     "officialLanguageNameLocal": "eesti, eesti keel",
     "countryCallingCode": "372",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇪🇪"
   },
@@ -836,6 +891,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "20",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇪🇬"
   },
@@ -851,6 +907,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "212",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇪🇭"
   },
@@ -866,6 +923,7 @@ module.exports = [
     "officialLanguageNameEn": "Tigrinya",
     "officialLanguageNameLocal": "ትግርኛ",
     "countryCallingCode": "291",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇪🇷"
   },
@@ -881,6 +939,7 @@ module.exports = [
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "34",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇪🇸"
   },
@@ -896,6 +955,7 @@ module.exports = [
     "officialLanguageNameEn": "Amharic",
     "officialLanguageNameLocal": "አማርኛ",
     "countryCallingCode": "251",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇪🇹"
   },
@@ -911,6 +971,7 @@ module.exports = [
     "officialLanguageNameEn": "Finnish",
     "officialLanguageNameLocal": "suomi, suomen kieli",
     "countryCallingCode": "358",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇫🇮"
   },
@@ -926,6 +987,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "679",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇫🇯"
   },
@@ -941,6 +1003,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "691",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇫🇲"
   },
@@ -956,6 +1019,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "33",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇫🇷"
   },
@@ -971,6 +1035,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "241",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇬🇦"
   },
@@ -986,6 +1051,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1473",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇬🇩"
   },
@@ -1001,6 +1067,7 @@ module.exports = [
     "officialLanguageNameEn": "Georgian",
     "officialLanguageNameLocal": "ქართული",
     "countryCallingCode": "995",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇬🇪"
   },
@@ -1016,6 +1083,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "594",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇬🇫"
   },
@@ -1031,6 +1099,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "44",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇬🇬"
   },
@@ -1046,6 +1115,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "233",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇬🇭"
   },
@@ -1061,6 +1131,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "350",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇬🇮"
   },
@@ -1076,6 +1147,7 @@ module.exports = [
     "officialLanguageNameEn": "Kalaallisut, Greenlandic",
     "officialLanguageNameLocal": "kalaallisut, kalaallit oqaasii",
     "countryCallingCode": "299",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇬🇱"
   },
@@ -1091,6 +1163,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "224",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇬🇳"
   },
@@ -1106,6 +1179,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "590",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇬🇵"
   },
@@ -1121,6 +1195,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "240",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇬🇶"
   },
@@ -1136,6 +1211,7 @@ module.exports = [
     "officialLanguageNameEn": "Greek, Modern (1453-)",
     "officialLanguageNameLocal": "ελληνικά",
     "countryCallingCode": "30",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇬🇷"
   },
@@ -1151,6 +1227,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "500",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇬🇸"
   },
@@ -1166,6 +1243,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "502",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇬🇹"
   },
@@ -1181,6 +1259,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇬🇺"
   },
@@ -1196,6 +1275,7 @@ module.exports = [
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
     "countryCallingCode": "245",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇬🇼"
   },
@@ -1211,6 +1291,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "592",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇬🇾"
   },
@@ -1226,6 +1307,7 @@ module.exports = [
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "852",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇭🇰"
   },
@@ -1241,6 +1323,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "504",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇭🇳"
   },
@@ -1256,6 +1339,7 @@ module.exports = [
     "officialLanguageNameEn": "Croatian",
     "officialLanguageNameLocal": "hrvatski jezik",
     "countryCallingCode": "385",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇭🇷"
   },
@@ -1271,6 +1355,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "509",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇭🇹"
   },
@@ -1286,6 +1371,7 @@ module.exports = [
     "officialLanguageNameEn": "Hungarian",
     "officialLanguageNameLocal": "magyar",
     "countryCallingCode": "36",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇭🇺"
   },
@@ -1301,6 +1387,7 @@ module.exports = [
     "officialLanguageNameEn": "Indonesian",
     "officialLanguageNameLocal": "Bahasa Indonesia",
     "countryCallingCode": "62",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇮🇩"
   },
@@ -1316,6 +1403,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "353",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇮🇪"
   },
@@ -1331,6 +1419,7 @@ module.exports = [
     "officialLanguageNameEn": "Hebrew",
     "officialLanguageNameLocal": "עברית",
     "countryCallingCode": "972",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇮🇱"
   },
@@ -1346,6 +1435,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "44",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇮🇲"
   },
@@ -1361,6 +1451,7 @@ module.exports = [
     "officialLanguageNameEn": "Hindi",
     "officialLanguageNameLocal": "हिन्दी, हिंदी",
     "countryCallingCode": "91",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇮🇳"
   },
@@ -1376,6 +1467,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "964",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇮🇶"
   },
@@ -1391,6 +1483,7 @@ module.exports = [
     "officialLanguageNameEn": "Persian",
     "officialLanguageNameLocal": "فارسی",
     "countryCallingCode": "98",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇮🇷"
   },
@@ -1406,6 +1499,7 @@ module.exports = [
     "officialLanguageNameEn": "Icelandic",
     "officialLanguageNameLocal": "Íslenska",
     "countryCallingCode": "354",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇮🇸"
   },
@@ -1421,6 +1515,7 @@ module.exports = [
     "officialLanguageNameEn": "Italian",
     "officialLanguageNameLocal": "Italiano",
     "countryCallingCode": "39",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇮🇹"
   },
@@ -1436,6 +1531,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "44",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇯🇪"
   },
@@ -1451,6 +1547,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "876",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇯🇲"
   },
@@ -1466,6 +1563,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "962",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇯🇴"
   },
@@ -1481,6 +1579,7 @@ module.exports = [
     "officialLanguageNameEn": "Japanese",
     "officialLanguageNameLocal": "日本語 (にほんご)",
     "countryCallingCode": "81",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇯🇵"
   },
@@ -1496,6 +1595,7 @@ module.exports = [
     "officialLanguageNameEn": "Swahili",
     "officialLanguageNameLocal": "Kiswahili",
     "countryCallingCode": "254",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇰🇪"
   },
@@ -1511,6 +1611,7 @@ module.exports = [
     "officialLanguageNameEn": "Kirghiz, Kyrgyz",
     "officialLanguageNameLocal": "Кыргызча, Кыргыз тили",
     "countryCallingCode": "996",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇰🇬"
   },
@@ -1526,6 +1627,7 @@ module.exports = [
     "officialLanguageNameEn": "Central Khmer",
     "officialLanguageNameLocal": "ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ",
     "countryCallingCode": "855",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇰🇭"
   },
@@ -1541,6 +1643,7 @@ module.exports = [
     "officialLanguageNameEn": "Korean",
     "officialLanguageNameLocal": "조선어",
     "countryCallingCode": "850",
+    "areaCodes": [],
     "region": "Asia",
     "flag": "🇰🇵"
   },
@@ -1556,6 +1659,7 @@ module.exports = [
     "officialLanguageNameEn": "Korean",
     "officialLanguageNameLocal": "한국어",
     "countryCallingCode": "82",
+    "areaCodes": [],
     "region": "Asia",
     "flag": "🇰🇷"
   },
@@ -1571,6 +1675,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "686",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇰🇮"
   },
@@ -1586,6 +1691,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1869",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇰🇳"
   },
@@ -1601,6 +1707,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "965",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇰🇼"
   },
@@ -1616,6 +1723,7 @@ module.exports = [
     "officialLanguageNameEn": "Kazakh",
     "officialLanguageNameLocal": "қазақ тілі",
     "countryCallingCode": "7",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇰🇿"
   },
@@ -1631,6 +1739,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "961",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇱🇧"
   },
@@ -1646,6 +1755,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1758",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇱🇨"
   },
@@ -1661,6 +1771,7 @@ module.exports = [
     "officialLanguageNameEn": "German",
     "officialLanguageNameLocal": "Deutsch",
     "countryCallingCode": "423",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇱🇮"
   },
@@ -1676,6 +1787,7 @@ module.exports = [
     "officialLanguageNameEn": "Sinhala, Sinhalese",
     "officialLanguageNameLocal": "සිංහල",
     "countryCallingCode": "94",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇱🇰"
   },
@@ -1691,6 +1803,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "231",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇱🇷"
   },
@@ -1706,6 +1819,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "266",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇱🇸"
   },
@@ -1721,6 +1835,7 @@ module.exports = [
     "officialLanguageNameEn": "Lithuanian",
     "officialLanguageNameLocal": "lietuvių kalba",
     "countryCallingCode": "370",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇱🇹"
   },
@@ -1736,6 +1851,7 @@ module.exports = [
     "officialLanguageNameEn": "Luxembourgish, Letzeburgesch",
     "officialLanguageNameLocal": "Lëtzebuergesch",
     "countryCallingCode": "352",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇱🇺"
   },
@@ -1751,6 +1867,7 @@ module.exports = [
     "officialLanguageNameEn": "Latvian",
     "officialLanguageNameLocal": "latviešu valoda",
     "countryCallingCode": "371",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇱🇻"
   },
@@ -1766,6 +1883,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "218",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇱🇾"
   },
@@ -1781,6 +1899,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "212",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇲🇦"
   },
@@ -1796,6 +1915,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "377",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇲🇨"
   },
@@ -1811,6 +1931,7 @@ module.exports = [
     "officialLanguageNameEn": "српски језик",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "382",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇲🇪"
   },
@@ -1826,6 +1947,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "590",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇲🇫"
   },
@@ -1841,6 +1963,7 @@ module.exports = [
     "officialLanguageNameEn": "Malagasy",
     "officialLanguageNameLocal": "fiteny malagasy",
     "countryCallingCode": "261",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇲🇬"
   },
@@ -1856,6 +1979,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "223",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇲🇱"
   },
@@ -1871,6 +1995,7 @@ module.exports = [
     "officialLanguageNameEn": "Burmese",
     "officialLanguageNameLocal": "ဗမာစာ",
     "countryCallingCode": "95",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇲🇲"
   },
@@ -1886,6 +2011,7 @@ module.exports = [
     "officialLanguageNameEn": "Mongolian",
     "officialLanguageNameLocal": "Монгол хэл",
     "countryCallingCode": "976",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇲🇳"
   },
@@ -1901,6 +2027,7 @@ module.exports = [
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "853",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇲🇴"
   },
@@ -1916,6 +2043,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "596",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇲🇶"
   },
@@ -1931,6 +2059,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "222",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇲🇷"
   },
@@ -1946,6 +2075,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1664",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇲🇸"
   },
@@ -1961,6 +2091,7 @@ module.exports = [
     "officialLanguageNameEn": "Maltese",
     "officialLanguageNameLocal": "Malti",
     "countryCallingCode": "356",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇲🇹"
   },
@@ -1976,6 +2107,7 @@ module.exports = [
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "230",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇲🇺"
   },
@@ -1991,6 +2123,7 @@ module.exports = [
     "officialLanguageNameEn": "Divehi, Dhivehi, Maldivian",
     "officialLanguageNameLocal": "ދިވެހި",
     "countryCallingCode": "960",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇲🇻"
   },
@@ -2006,6 +2139,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "265",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇲🇼"
   },
@@ -2021,6 +2155,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "52",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇲🇽"
   },
@@ -2036,6 +2171,7 @@ module.exports = [
     "officialLanguageNameEn": "Malay",
     "officialLanguageNameLocal": "Bahasa Melayu, بهاس ملايو‎",
     "countryCallingCode": "60",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇲🇾"
   },
@@ -2051,6 +2187,7 @@ module.exports = [
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
     "countryCallingCode": "258",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇲🇿"
   },
@@ -2066,6 +2203,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "264",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇳🇦"
   },
@@ -2081,6 +2219,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "687",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇳🇨"
   },
@@ -2096,6 +2235,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "672",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇳🇫"
   },
@@ -2111,6 +2251,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "234",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇳🇬"
   },
@@ -2126,6 +2267,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "505",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇳🇮"
   },
@@ -2141,6 +2283,7 @@ module.exports = [
     "officialLanguageNameEn": "Norwegian Bokmål",
     "officialLanguageNameLocal": "Norsk Bokmål",
     "countryCallingCode": "47",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇳🇴"
   },
@@ -2156,6 +2299,7 @@ module.exports = [
     "officialLanguageNameEn": "Nepali",
     "officialLanguageNameLocal": "नेपाली",
     "countryCallingCode": "977",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇳🇵"
   },
@@ -2171,6 +2315,7 @@ module.exports = [
     "officialLanguageNameEn": "Nauru",
     "officialLanguageNameLocal": "Dorerin Naoero",
     "countryCallingCode": "674",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇳🇷"
   },
@@ -2186,6 +2331,7 @@ module.exports = [
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "683",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇳🇺"
   },
@@ -2201,6 +2347,7 @@ module.exports = [
     "officialLanguageNameEn": "Maori",
     "officialLanguageNameLocal": "te reo Māori",
     "countryCallingCode": "64",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇳🇿"
   },
@@ -2216,6 +2363,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "968",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇴🇲"
   },
@@ -2231,6 +2379,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "507",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇵🇦"
   },
@@ -2246,6 +2395,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "51",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇵🇪"
   },
@@ -2261,6 +2411,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "689",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇵🇫"
   },
@@ -2276,6 +2427,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "675",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇵🇬"
   },
@@ -2291,6 +2443,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "92",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇵🇰"
   },
@@ -2306,6 +2459,7 @@ module.exports = [
     "officialLanguageNameEn": "Polish",
     "officialLanguageNameLocal": "język polski, polszczyzna",
     "countryCallingCode": "48",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇵🇱"
   },
@@ -2321,6 +2475,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "508",
+    "areaCodes": [],
     "region": "North America",
     "flag": "🇵🇲"
   },
@@ -2336,6 +2491,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "64",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇵🇳"
   },
@@ -2351,6 +2507,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "1",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇵🇷"
   },
@@ -2366,6 +2523,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "970",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇵🇸"
   },
@@ -2381,6 +2539,7 @@ module.exports = [
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
     "countryCallingCode": "351",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇵🇹"
   },
@@ -2396,6 +2555,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "680",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇵🇼"
   },
@@ -2411,6 +2571,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "595",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇵🇾"
   },
@@ -2426,6 +2587,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "974",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇶🇦"
   },
@@ -2441,6 +2603,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "262",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇷🇪"
   },
@@ -2456,6 +2619,7 @@ module.exports = [
     "officialLanguageNameEn": "Romanian, Moldavian, Moldovan",
     "officialLanguageNameLocal": "Română",
     "countryCallingCode": "40",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇷🇴"
   },
@@ -2471,6 +2635,7 @@ module.exports = [
     "officialLanguageNameEn": "Serbian",
     "officialLanguageNameLocal": "српски језик",
     "countryCallingCode": "381",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇷🇸"
   },
@@ -2486,6 +2651,7 @@ module.exports = [
     "officialLanguageNameEn": "Russian",
     "officialLanguageNameLocal": "русский",
     "countryCallingCode": "7",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇷🇺"
   },
@@ -2501,6 +2667,7 @@ module.exports = [
     "officialLanguageNameEn": "Kinyarwanda",
     "officialLanguageNameLocal": "Ikinyarwanda",
     "countryCallingCode": "250",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇷🇼"
   },
@@ -2516,6 +2683,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "966",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇸🇦"
   },
@@ -2531,6 +2699,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "677",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇸🇧"
   },
@@ -2546,6 +2715,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "248",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇸🇨"
   },
@@ -2561,6 +2731,7 @@ module.exports = [
     "officialLanguageNameEn": "Swedish",
     "officialLanguageNameLocal": "Svenska",
     "countryCallingCode": "46",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇸🇪"
   },
@@ -2576,6 +2747,7 @@ module.exports = [
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "65",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇸🇬"
   },
@@ -2591,6 +2763,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "290",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇸🇭"
   },
@@ -2606,6 +2779,7 @@ module.exports = [
     "officialLanguageNameEn": "Slovenian",
     "officialLanguageNameLocal": "Slovenski Jezik, Slovenščina",
     "countryCallingCode": "386",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇸🇮"
   },
@@ -2621,6 +2795,7 @@ module.exports = [
     "officialLanguageNameEn": "Norwegian",
     "officialLanguageNameLocal": "Norsk",
     "countryCallingCode": "4779",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇸🇯"
   },
@@ -2636,6 +2811,7 @@ module.exports = [
     "officialLanguageNameEn": "Slovak",
     "officialLanguageNameLocal": "Slovenčina, Slovenský Jazyk",
     "countryCallingCode": "421",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇸🇰"
   },
@@ -2651,6 +2827,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "232",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇸🇱"
   },
@@ -2666,6 +2843,7 @@ module.exports = [
     "officialLanguageNameEn": "Italian",
     "officialLanguageNameLocal": "Italiano",
     "countryCallingCode": "378",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇸🇲"
   },
@@ -2681,6 +2859,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "221",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇸🇳"
   },
@@ -2696,6 +2875,7 @@ module.exports = [
     "officialLanguageNameEn": "Somali",
     "officialLanguageNameLocal": "Soomaaliga, af Soomaali",
     "countryCallingCode": "252",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇸🇴"
   },
@@ -2711,6 +2891,7 @@ module.exports = [
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
     "countryCallingCode": "597",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇸🇷"
   },
@@ -2726,6 +2907,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "211",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇸🇸"
   },
@@ -2741,6 +2923,7 @@ module.exports = [
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
     "countryCallingCode": "239",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇸🇹"
   },
@@ -2756,6 +2939,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "503",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇸🇻"
   },
@@ -2771,6 +2955,7 @@ module.exports = [
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
     "countryCallingCode": "1721",
+    "areaCodes": [],
     "region": "Unknown",
     "flag": "🇸🇽"
   },
@@ -2786,6 +2971,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "963",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇸🇾"
   },
@@ -2801,6 +2987,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "235",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇹🇩"
   },
@@ -2816,6 +3003,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "228",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇹🇬"
   },
@@ -2831,6 +3019,7 @@ module.exports = [
     "officialLanguageNameEn": "Thai",
     "officialLanguageNameLocal": "ไทย",
     "countryCallingCode": "66",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇹🇭"
   },
@@ -2846,6 +3035,7 @@ module.exports = [
     "officialLanguageNameEn": "Tajik",
     "officialLanguageNameLocal": "тоҷикӣ, toçikī, تاجیکی‎",
     "countryCallingCode": "992",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇹🇯"
   },
@@ -2861,6 +3051,7 @@ module.exports = [
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "690",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇹🇰"
   },
@@ -2876,6 +3067,7 @@ module.exports = [
     "officialLanguageNameEn": "Portuguese",
     "officialLanguageNameLocal": "Português",
     "countryCallingCode": "670",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇹🇱"
   },
@@ -2891,6 +3083,7 @@ module.exports = [
     "officialLanguageNameEn": "Turkmen",
     "officialLanguageNameLocal": "Türkmen, Түркмен",
     "countryCallingCode": "993",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇹🇲"
   },
@@ -2906,6 +3099,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "216",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇹🇳"
   },
@@ -2921,6 +3115,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "676",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇹🇴"
   },
@@ -2936,6 +3131,7 @@ module.exports = [
     "officialLanguageNameEn": "Turkish",
     "officialLanguageNameLocal": "Türkçe",
     "countryCallingCode": "90",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇹🇷"
   },
@@ -2951,6 +3147,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "868",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇹🇹"
   },
@@ -2966,6 +3163,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "688",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇹🇻"
   },
@@ -2981,6 +3179,7 @@ module.exports = [
     "officialLanguageNameEn": "Swahili",
     "officialLanguageNameLocal": "Kiswahili",
     "countryCallingCode": "255",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇹🇿"
   },
@@ -2996,6 +3195,7 @@ module.exports = [
     "officialLanguageNameEn": "Ukrainian",
     "officialLanguageNameLocal": "Українська",
     "countryCallingCode": "380",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇺🇦"
   },
@@ -3011,6 +3211,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "256",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇺🇬"
   },
@@ -3026,6 +3227,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1",
+    "areaCodes": [],
     "region": "North America",
     "flag": "🇺🇸"
   },
@@ -3041,6 +3243,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "598",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇺🇾"
   },
@@ -3056,6 +3259,7 @@ module.exports = [
     "officialLanguageNameEn": "Uzbek",
     "officialLanguageNameLocal": "Oʻzbek, Ўзбек, أۇزبېك‎",
     "countryCallingCode": "998",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇺🇿"
   },
@@ -3071,6 +3275,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1784",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇻🇨"
   },
@@ -3086,6 +3291,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "58",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇻🇪"
   },
@@ -3101,6 +3307,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1284",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇻🇬"
   },
@@ -3116,6 +3323,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1340",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇻🇮"
   },
@@ -3131,6 +3339,7 @@ module.exports = [
     "officialLanguageNameEn": "Vietnamese",
     "officialLanguageNameLocal": "Tiếng Việt",
     "countryCallingCode": "84",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇻🇳"
   },
@@ -3146,6 +3355,7 @@ module.exports = [
     "officialLanguageNameEn": "Bislama",
     "officialLanguageNameLocal": "Bislama",
     "countryCallingCode": "678",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇻🇺"
   },
@@ -3161,6 +3371,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "681",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇼🇫"
   },
@@ -3176,6 +3387,7 @@ module.exports = [
     "officialLanguageNameEn": "Samoan",
     "officialLanguageNameLocal": "gagana fa'a Samoa",
     "countryCallingCode": "685",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇼🇸"
   },
@@ -3191,6 +3403,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "967",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇾🇪"
   },
@@ -3206,6 +3419,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "262",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇾🇹"
   },
@@ -3221,6 +3435,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "27",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇿🇦"
   },
@@ -3236,6 +3451,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "260",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇿🇲"
   },
@@ -3251,6 +3467,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "263",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇿🇼"
   },
@@ -3266,6 +3483,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "268",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇸🇿"
   },
@@ -3281,6 +3499,7 @@ module.exports = [
     "officialLanguageNameEn": "Macedonian",
     "officialLanguageNameLocal": "македонски јазик",
     "countryCallingCode": "389",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇲🇰"
   },
@@ -3296,6 +3515,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "63",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇵🇭"
   },
@@ -3311,6 +3531,7 @@ module.exports = [
     "officialLanguageNameEn": "Dutch, Flemish",
     "officialLanguageNameLocal": "Nederlands, Vlaams",
     "countryCallingCode": "31",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇳🇱"
   },
@@ -3326,6 +3547,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "971",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇦🇪"
   },
@@ -3341,6 +3563,7 @@ module.exports = [
     "officialLanguageNameEn": "Romanian, Moldavian, Moldovan",
     "officialLanguageNameLocal": "Română",
     "countryCallingCode": "373",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇲🇩"
   },
@@ -3356,6 +3579,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "220",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇬🇲"
   },
@@ -3371,6 +3595,7 @@ module.exports = [
     "officialLanguageNameEn": "Spanish, Castilian",
     "officialLanguageNameLocal": "Español",
     "countryCallingCode": "1",
+    "areaCodes": [],
     "region": "South/Latin America",
     "flag": "🇩🇴"
   },
@@ -3386,6 +3611,7 @@ module.exports = [
     "officialLanguageNameEn": "Arabic",
     "officialLanguageNameLocal": "العربية",
     "countryCallingCode": "249",
+    "areaCodes": [],
     "region": "Arab States",
     "flag": "🇸🇩"
   },
@@ -3401,6 +3627,7 @@ module.exports = [
     "officialLanguageNameEn": "Lao",
     "officialLanguageNameLocal": "ພາສາລາວ",
     "countryCallingCode": "856",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇱🇦"
   },
@@ -3416,6 +3643,7 @@ module.exports = [
     "officialLanguageNameEn": "",
     "officialLanguageNameLocal": "",
     "countryCallingCode": "886",
+    "areaCodes": [],
     "region": "Asia & Pacific",
     "flag": "🇹🇼"
   },
@@ -3431,6 +3659,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "242",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇨🇬"
   },
@@ -3446,6 +3675,7 @@ module.exports = [
     "officialLanguageNameEn": "Czech",
     "officialLanguageNameLocal": "Čeština",
     "countryCallingCode": "420",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇨🇿"
   },
@@ -3461,6 +3691,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "44",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇬🇧"
   },
@@ -3476,6 +3707,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "227",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇳🇪"
   },
@@ -3491,6 +3723,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "243",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇨🇩",
   },
@@ -3506,6 +3739,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1 242",
+    "areaCodes": [],
     "region": "Caribbean",
     "flag": "🇧🇸",
   },
@@ -3521,6 +3755,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "61 891",
+    "areaCodes": [],
     "region": "Australia",
     "flag": "🇨🇨",
   },
@@ -3536,6 +3771,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "236",
+    "areaCodes": [],
     "region": "Africa",
     "flag": "🇨🇫",
   },
@@ -3551,6 +3787,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "682",
+    "areaCodes": [],
     "region": "South Pacific Ocean",
     "flag": "🇨🇰",
   },
@@ -3566,6 +3803,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "500",
+    "areaCodes": [],
     "region": "South Atlantic Ocean",
     "flag": "🇫🇰",
   },
@@ -3581,6 +3819,7 @@ module.exports = [
     "officialLanguageNameEn": "Danish",
     "officialLanguageNameLocal": "dansk",
     "countryCallingCode": "298",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇫🇴",
   },
@@ -3596,6 +3835,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "672",
+    "areaCodes": [],
     "region": "Indian Ocean",
     "flag": "🇭🇲",
   },
@@ -3611,6 +3851,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "246",
+    "areaCodes": [],
     "region": "Indian Ocean",
     "flag": "🇮🇴",
   },
@@ -3626,6 +3867,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "269",
+    "areaCodes": [],
     "region": "Indian Ocean",
     "flag": "🇰🇲",
   },
@@ -3641,6 +3883,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1 345",
+    "areaCodes": [],
     "region": "Caribbean Sea",
     "flag": "🇰🇾",
   },
@@ -3656,6 +3899,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "692",
+    "areaCodes": [],
     "region": "Pacific Ocean",
     "flag": "🇲🇭",
   },
@@ -3671,6 +3915,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1 670",
+    "areaCodes": [],
     "region": "Pacific Ocean",
     "flag": "🇲🇵",
   },
@@ -3686,6 +3931,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "1 649",
+    "areaCodes": [],
     "region": "Atlantic Ocean",
     "flag": "🇹🇨",
   },
@@ -3701,6 +3947,7 @@ module.exports = [
     "officialLanguageNameEn": "French",
     "officialLanguageNameLocal": "Français",
     "countryCallingCode": "672",
+    "areaCodes": [],
     "region": "Indian Ocean",
     "flag": "🇹🇫",
   },
@@ -3716,6 +3963,7 @@ module.exports = [
     "officialLanguageNameEn": "English",
     "officialLanguageNameLocal": "English",
     "countryCallingCode": "246",
+    "areaCodes": [],
     "region": "Pacific Ocean",
     "flag": "🇺🇲",
   },
@@ -3731,6 +3979,7 @@ module.exports = [
     "officialLanguageNameEn": "Latin",
     "officialLanguageNameLocal": "lingua latīna",
     "countryCallingCode": "39",
+    "areaCodes": [],
     "region": "Europe",
     "flag": "🇻🇦",
   }
