@@ -3735,7 +3735,7 @@ module.exports = [
     "flag": "🇻🇦",
   },
   {
-    "countryNameEn": "Republic of Kosovosovo",
+    "countryNameEn": "Republic of Kosovo",
     "countryNameLocal": "Republika e Kosovës",
     "countryCode": "XK",
     "currencyCode": "EUR",
