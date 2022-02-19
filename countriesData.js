@@ -2655,8 +2655,8 @@ module.exports = [
     "flag": "🇸🇱"
   },
   {
-    "countryNameEn": "San Marino",
-    "countryNameLocal": "San Marino",
+    "countryNameEn": "Republic of San Marino",
+    "countryNameLocal": "Repubblica di San Marino",
     "countryCode": "SM",
     "currencyCode": "EUR",
     "currencyNameEn": "Euro",
