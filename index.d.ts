@@ -57,5 +57,5 @@ declare module 'country-codes-list' {
     key?: CountryProperty,
     label?: string,
     settings?: CustomArraySettings,
-  ): { [CountryProperty]: string };
+  ): { [key in CountryProperty]: string };
 }
