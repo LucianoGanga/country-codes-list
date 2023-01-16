@@ -46,6 +46,8 @@ The possible values for the object key and the placeholders are:
 const countryCodes = require('country-codes-list')
 
 const myCountryCodesObject = countryCodes.customList('countryCode', '[{countryCode}] {countryNameEn}: +{countryCallingCode}')
+
+const myCountryCodesArray = countryCodes.customArray({ name: '{countryCode}', value: '[{countryCode}] {countryNameEn}: +{countryCallingCode}' })
 ```
 
 This will return an object like this one: 
@@ -69,4 +71,20 @@ This will return an object like this one:
     ...
 }
 
+[
+  { name: 'AD', value: '[AD] Andorra: +376' },
+  { name: 'AF', value: '[AF] Afghanistan: +93' },
+  { name: 'AG', value: '[AG] Antigua and Barbuda: +1268' },
+  { name: 'AI', value: '[AI] Anguilla: +1264' },
+  { name: 'AL', value: '[AL] Albania: +355' },
+  { name: 'AM', value: '[AM] Armenia: +374' },
+  { name: 'AO', value: '[AO] Angola: +244' },
+  { name: 'AQ', value: '[AQ] Antarctica: +672' },
+  { name: 'AR', value: '[AR] Argentina: +54' },
+  { name: 'AS', value: '[AS] American Samoa: +1684' },
+  { name: 'AT', value: '[AT] Austria: +43' },
+  { name: 'AU', value: '[AU] Australia: +61' },
+  { name: 'AW', value: '[AW] Aruba: +297' },
+  ...
+]
 ```
