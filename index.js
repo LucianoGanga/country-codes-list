@@ -84,5 +84,24 @@ module.exports = {
     })
 
     return finalObject
+  },
+  
+  /**
+   * enum used at runtime to access country properties
+   */
+  CountryProperty: {
+    countryNameEn: 'countryNameEn',
+    countryNameLocal: 'countryNameLocal',
+    countryCode: 'countryCode',
+    currencyCode: 'currencyCode',
+    currencyNameEn: 'currencyNameEn',
+    tinType: 'tinType',
+    tinName: 'tinName',
+    officialLanguageCode: 'officialLanguageCode',
+    officialLanguageNameEn: 'officialLanguageNameEn',
+    officialLanguageNameLocal: 'officialLanguageNameLocal',
+    countryCallingCode: 'countryCallingCode',
+    region: 'region',
+    flag: 'flag',
   }
 }
