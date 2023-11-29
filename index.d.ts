@@ -2,37 +2,24 @@
 // by jakeisnt, Feb. 2022
 
 declare module 'country-codes-list' {
-  export enum CountryProperty {
-    countryNameEn = 'countryNameEn',
-    countryNameLocal = 'countryNameLocal',
-    countryCode = 'countryCode',
-    currencyCode = 'currencyCode',
-    currencyNameEn = 'currencyNameEn',
-    tinType = 'tinType',
-    tinName = 'tinName',
-    officialLanguageCode = 'officialLanguageCode',
-    officialLanguageNameEn = 'officialLanguageNameEn',
-    officialLanguageNameLocal = 'officialLanguageNameLocal',
-    countryCallingCode = 'countryCallingCode',
-    region = 'region',
-    flag = 'flag',
+
+  export type CountryData = {
+    countryNameEn: string
+    countryNameLocal: string
+    countryCode: string
+    currencyCode: string
+    currencyNameEn: string
+    tinType: string
+    tinName: string
+    officialLanguageCode: string
+    officialLanguageNameEn: string
+    officialLanguageNameLocal: string
+    countryCallingCode: string
+    region: string
+    flag: string
   }
 
-  type CountryData = {
-    [CountryProperty.countryNameEn]: string
-    [CountryProperty.countryNameLocal]: string
-    [CountryProperty.countryCode]: string
-    [CountryProperty.currencyCode]: string
-    [CountryProperty.currencyNameEn]: string
-    [CountryProperty.tinType]: string
-    [CountryProperty.tinName]: string
-    [CountryProperty.officialLanguageCode]: string
-    [CountryProperty.officialLanguageNameEn]: string
-    [CountryProperty.officialLanguageNameLocal]: string
-    [CountryProperty.countryCallingCode]: string
-    [CountryProperty.region]: string
-    [CountryProperty.flag]: string
-  }
+  export type CountryProperty = keyof CountryData
 
   type Filter<T> = (element: T, index: number, array: T[]) => T[]
 
