@@ -47,7 +47,7 @@ declare module 'country-codes-list' {
   export function filter(
     countryProperty: CountryProperty,
     value: string,
-  ): CountryData[]
+  ): boolean
 
   export function findOne(
     countryProperty: CountryProperty,
