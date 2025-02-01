@@ -1,4 +1,21 @@
-module.exports = [
+type CountryData = {
+  countryNameEn: string;
+  countryNameLocal: string;
+  countryCode: string;
+  currencyCode: string;
+  currencyNameEn: string;
+  tinType: string;
+  tinName: string;
+  officialLanguageCode: string;
+  officialLanguageNameEn: string;
+  officialLanguageNameLocal: string;
+  countryCallingCode: string;
+  areaCodes?: any[];
+  region: string;
+  flag: string;
+};
+
+const countriesData: CountryData[] = [
   {
     countryNameEn: "Andorra",
     countryNameLocal: "Andorra",
@@ -4076,3 +4093,6 @@ module.exports = [
     flag: "🇧🇶",
   },
 ];
+
+export type { CountryData };
+export default countriesData;

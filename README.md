@@ -1,6 +1,11 @@
 # country-codes-list
 
-Module with list of codes per country, which includes:
+Module with list of codes per country, including country codes, currency codes, and more.
+
+> [!WARNING]  
+> Release v2.0.0 introduces breaking changes with full TypeScript support and automated testing/publishing.
+
+## Features
 
 - Country code (ISO 3166-1 alpha-2): Obtained from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
 - Country Name: Each name in english and in the local country language
@@ -13,6 +18,30 @@ Module with list of codes per country, which includes:
 - Country Calling Code: The phone calling code for the country. Obtained from [Wikipedia](https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region).
 - Region: The Regional Classifications are from the [International Telecommunications Union](http://www.itu.int/ITU-D/ict/definitions/regions/index.html). Seen [here](https://meta.wikimedia.org/wiki/List_of_countries_by_regional_classification)
 
+## Installation
+
+Install the package via npm:
+
+```bash
+npm install --save country-codes-list
+```
+
+## Build & Test
+
+To compile the package, run:
+
+```bash
+npm run build
+```
+
+The compiled output will be in the `dist/` folder.
+
+To run tests:
+
+```bash
+npm test
+```
+
 # Installation
 
 ## Install the NPM module
@@ -23,25 +52,53 @@ Module with list of codes per country, which includes:
 
 ## Usage
 
-### customList method:
+This package can be used in both CommonJS (JavaScript) and TypeScript environments.
 
-Just import the module and call the customList method. The first parameter must be the key you want for your object, and the second parameter must be a string with placeholders written as you need. The placeholders are defined between brackets (`{placeholder}`).
+### CommonJS
 
-The possible values for the object key and the placeholders are:
+```js
+const countryCodes = require("country-codes-list");
 
-- countryNameEn
-- countryNameLocal
-- countryCode
-- currencyCode
-- currencyNameEn
-- tinType
-- tinName
-- officialLanguageCode
-- officialLanguageNameEn
-- officialLanguageNameLocal
-- countryCallingCode
-- region
-- globalSouth
+const myCountryCodesObject = countryCodes.customList(
+  "countryCode",
+  "[{countryCode}] {countryNameEn}: +{countryCallingCode}"
+);
+
+console.log(myCountryCodesObject);
+```
+
+### TypeScript
+
+```ts
+import * as countryCodes from "country-codes-list";
+
+const myCountryCodesObject = countryCodes.customList(
+  "countryCode",
+  "[{countryCode}] {countryNameEn}: +{countryCallingCode}"
+);
+console.log(myCountryCodesObject);
+```
+
+### API Details – customList Method
+
+- The first parameter is the key used for the returned object's property.
+- The second parameter is a string with placeholders (in `{placeholder}` format) replaced by corresponding country properties.
+
+The available placeholders are:
+
+- `countryNameEn`
+- `countryNameLocal`
+- `countryCode`
+- `currencyCode`
+- `currencyNameEn`
+- `tinType`
+- `tinName`
+- `officialLanguageCode`
+- `officialLanguageNameEn`
+- `officialLanguageNameLocal`
+- `countryCallingCode`
+- `region`
+- `globalSouth`
 
 #### Example
 
