@@ -1,4 +1,4 @@
-'use strict'
+"use strict";
 
 /**
  * supplant() does variable substitution on the string. It scans through the string looking for
@@ -10,7 +10,7 @@
  */
 module.exports = function (stringVal, replacements) {
   return stringVal.replace(/{([^{}]*)}/g, function (a, b) {
-    let r = replacements[b]
-    return typeof r === 'string' || typeof r === 'number' ? r : a
-  })
-}
+    let r = replacements[b];
+    return typeof r === "string" || typeof r === "number" ? r : a;
+  });
+};
