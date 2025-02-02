@@ -50,6 +50,38 @@ npm test
     npm install --save country-codes-list
 ```
 
+## Migration Guide (v1.x to v2.0)
+
+### Breaking Changes
+
+1. **TypeScript Types**: If you were using types:
+
+   ```typescript
+   // Old (v1.x)
+   import { CountryProperty } from "country-codes-list";
+   const prop: CountryProperty = CountryProperty.countryCode;
+
+   // New (v2.0)
+   import type { CountryProperty } from "country-codes-list";
+   const prop: CountryProperty = "countryCode";
+   ```
+
+2. **Module Imports**: Now supports both CommonJS and ES modules:
+
+   ```javascript
+   // CommonJS (still works)
+   const countryCodes = require("country-codes-list");
+
+   // ES Modules (new)
+   import * as countryCodes from "country-codes-list";
+   ```
+
+3. **Stricter Types**: Some functions now have stricter type checking:
+   ```typescript
+   // This now requires valid country property keys
+   countryCodes.filter("invalidKey", "value"); // TypeScript error
+   ```
+
 ## Usage
 
 This package can be used in both CommonJS (JavaScript) and TypeScript environments.

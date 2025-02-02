@@ -1,8 +1,8 @@
 import groupBy from "./utils/groupBy";
 import supplant from "./utils/supplant";
-import countriesData, { CountryData } from "./countriesData";
+import countriesData, { CountryData, CountryProperty } from "./countriesData";
 
-export type { CountryData };
+export type { CountryData, CountryProperty };
 
 export const utils = {
   groupBy,
@@ -13,7 +13,7 @@ export function all(): CountryData[] {
 }
 
 export function filter(
-  countryProperty: keyof CountryData,
+  countryProperty: CountryProperty,
   value: string
 ): CountryData[] {
   return countriesData.filter(
@@ -22,7 +22,7 @@ export function filter(
 }
 
 export function findOne(
-  countryProperty: keyof CountryData,
+  countryProperty: CountryProperty,
   value: string
 ): CountryData | undefined {
   return countriesData.find(
@@ -40,8 +40,8 @@ export function customArray(
     sortDataBy,
     filter: filterFunc,
   }: {
-    sortBy?: keyof CountryData;
-    sortDataBy?: keyof CountryData;
+    sortBy?: CountryProperty;
+    sortDataBy?: CountryProperty;
     filter?: (cd: CountryData) => boolean;
   } = {}
 ) {

@@ -15,6 +15,8 @@ type CountryData = {
   flag: string;
 };
 
+type CountryProperty = keyof CountryData;
+
 const countriesData: CountryData[] = [
   {
     countryNameEn: "Andorra",
@@ -4094,5 +4096,5 @@ const countriesData: CountryData[] = [
   },
 ];
 
-export type { CountryData };
+export type { CountryData, CountryProperty };
 export default countriesData;
